@@ -74,8 +74,8 @@ schedule:
         end: 10:45 AM
         location: IOEC 210-A
       - name: Exercise Session Sec 2
-        start: 3:30 AM
-        end: 4:45 AM
+        start: 3:30 PM
+        end: 4:45 PM
         location: Bechtel 211
   - name: Friday
     events:
