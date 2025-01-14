@@ -12,10 +12,10 @@ seo:
 
 | Section Number | Lecture             | Room | Instructor    | Exercise Session  | Room | Enrollement  |
 | - | ------------------- | ----------    | -- | ----------------  | -- | -- |
-| [1](course_files/syllabus/syllabus-sec1.pdf) | MWF 9-9:50 am       | BECHTA 201 | Dr. Honein    | W 3:30-4:45 pm    | BECHTA 203 | 48 |
+| [1](https://drive.google.com/file/d/1UQTwvD-vhbpx2lC4R00NaTm-6hGOOxC9/view?usp=sharing) | MWF 9-9:50 am       | BECHTA 201 | Dr. Honein    | W 3:30-4:45 pm    | BECHTA 203 | 48 |
 | 2 | TR 9:30-10:45 am    | IOEC 210-A | Dr. Bakarji   | R 3:30-4:45 pm    | BECHTA 211 | 29 |
 | 3 | MW 2:00-3:15 am     | BECHTA 205 | Dr. Kasamani  | M 3:30-4:45 pm    | BECHTA 201 | 42 |
-| [5](course_files/syllabus/syllabus-sec5.pdf) | MWF 10:00-10:50 am  | BECHTA 201 | Dr. Honein    | W 2:00-3:15 pm    | BECHTA 201 | 31 |
+| [5](https://drive.google.com/file/d/1UXfF62scT79lgADqTHO5S-sJoMZFrwuj/view?usp=sharing) | MWF 10:00-10:50 am  | BECHTA 201 | Dr. Honein    | W 2:00-3:15 pm    | BECHTA 201 | 31 |
 
 The section number links to course syllabus. Please read your section's syllabus carefully.
 
