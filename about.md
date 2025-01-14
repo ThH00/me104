@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Syllabus
+title: Resources
 description: >-
     Course policies and information.
 ---
 
-# Syllabus
+# Resources
 {:.no_toc}
 
 ## Table of contents
@@ -16,18 +16,32 @@ description: >-
 
 ---
 
-## About
+## Solution Videos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+I have posted solution videos to a few problem set problems on my Youtube channel. (Lookup Theresa Honein on Youtube. I think that if you subscribe and click the bell icon, you will get automatic notifications when I upload a video.)
 
-## Lecture
+Here are direct links to the posted videos.
+- [Problem 02-021](https://youtu.be/wbUBexp8xfc)
+- [Problem 02-099](https://www.youtube.com/watch?v=Bt5neJj4Zhc&t=911s)
+- [Problem 03-004](https://www.youtube.com/watch?v=LAl3ZUiUpus&list=PLT0TfbRhIpQFwEo4f-kzETUIjA1tQqJV9&index=1)
+- [Problem 02-151](https://youtu.be/Z8Un0esREyw)
+- [Problem 03-071](https://youtu.be/RDFfE0tFTnk)
+- [Problem 08-004](https://youtu.be/16BBDDS5nMg)
+- [Problem 08-004 redo](https://youtu.be/YE9N2f2qTqg)
+- Problem 06-051 [Part 1](https://youtu.be/iQEG2_D207A) and [Part 2](https://youtu.be/ah63r2FgXTI)
+- Problem 06-070 [Part 1](https://youtu.be/acDAeDBoAg4) and [Part 2](https://youtube.com/shorts/b5tVpf2gdkw?feature=share)
+- Problem 06-118 [Part 1](https://youtu.be/oOSbK5uyTww) and [Part 2](https://youtu.be/DW40EHHgCbk)
+- [Problem 06-155](https://youtu.be/0N8tDgnrXNA)
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+Please solve the problems yourselves. I am more than happy to look at your problem set solutions before or after lecture and during office hours. The numerical final answers to the problems can be found at the back of the MKB textbook.
 
-## Resources
+You may want to turn YouTube notifications on for my channel to receive notifications when the videos become available. See [this link for instructions](https://support.google.com/youtube/answer/3382248?hl=en&co=GENIE.Platform%3DAndroid).You may want to turn YouTube notifications on for my channel to receive notifications when the videos become available. See [this link for instructions](https://support.google.com/youtube/answer/3382248?hl=en&co=GENIE.Platform%3DAndroid).
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+## Units
+Before completing the recommended problems, please read this note on units ADD LINK.
 
-## Assignments
+## Active Learning
+Check out these two excellent videos of Professor Noel Perkins from the Univesity of Michigan at Ann Arbor explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+## Downloading Matlab
+Please visit [https://matlab.mathworks.com/](https://matlab.mathworks.com/), and select sign in from the to right corner of the page, please sign in with your AUBnet account, after signing in you will find MATLAB button on the top of the page, click on MATLAB and select install MATLAB, will redirect you to another page, please click on download for windows, and save the file, after download has completed, please start the installation, will ask you to sign in again, and accept the license agreement, select the license and click next, click next on the location of the installation, please select needed modules to install and click next, pleas check add shortcut to desktop, and uncheck improve MATLAB,, click next and then click begin install.
