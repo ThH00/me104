@@ -17,9 +17,9 @@ seo:
 | 3 | MW 2:00-3:15 am     | BECHTA 205 | Dr. Kasamani  | M 3:30-4:45 pm    | BECHTA 201 | 42 |
 | [5](course_files/syllabus/syllabus-sec5.pdf) | MWF 10:00-10:50 am  | BECHTA 201 | Dr. Honein    | W 2:00-3:15 pm    | BECHTA 201 | 31 |
 
-* The section number links to course syllabus. Please read the syllabus carefully.
+The section number links to course syllabus. Please read your section's syllabus carefully.
 
-# Exams
+# Exam Schedule
 
 | Exam | Date | Location |
 | -- | -- | -- |
@@ -31,6 +31,6 @@ seo:
 
 | Semester | Exam 1 | Solution | Exam 2 | Solution | Final | Final Formula Sheet | Solution |
 | -- | -- | -- | -- | -- | -- | -- | -- |
-| Fall 2024 | Exam | Solution | Exam | Solution | Final | Final Formula Sheet | Solution |
+| Fall 2024 | [Exam](https://drive.google.com/file/d/1fpyogKU72hAk62joaXF57r_IyN-hvyrX/view?usp=sharing) | [Solution](https://drive.google.com/file/d/1gEF7iLhqBAmBBbsNmlnsfmzRhn-U-z8h/view?usp=sharing) | Exam | Solution | Final | Final Formula Sheet | Solution |
 
 
