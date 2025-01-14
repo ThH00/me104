@@ -27,7 +27,7 @@ schedule:
         start: 9:00 AM
         end: 9:50 AM
         location: Bechtel 201
-      - name: Lecture Sec 2
+      - name: Lecture Sec 5
         start: 10:00 AM
         end: 10:50 AM
         location: Bechtel 201
@@ -36,13 +36,18 @@ schedule:
         end: 4:00 PM
         location: Bechtel 532
   - name: Tuesday
+    events:
+      - name: Lecture Sec 2
+        start: 9:30 AM
+        end: 10:45 AM
+        location: IOEC 210-A
   - name: Wednesday
     events:
       - name: Lecture Sec 1
         start: 9:00 AM
         end: 9:50 AM
         location: Bechtel 201
-      - name: Lecture Sec 2
+      - name: Lecture Sec 5
         start: 10:00 AM
         end: 10:50 AM
         location: Bechtel 201
@@ -54,7 +59,7 @@ schedule:
         start: 3:30 PM
         end: 4:45 PM
         location: Bechtel 203
-      - name: Exercise Session Sec 2
+      - name: Exercise Session Sec 5
         start: 2:00 PM
         end: 3:15 PM
         location: Bechtel 201
@@ -64,13 +69,21 @@ schedule:
         start: 8:30 AM
         end: 10:00 AM
         location: Bechtel 532
+      - name: Lecture Sec 2
+        start: 9:30 AM
+        end: 10:45 AM
+        location: IOEC 210-A
+      - name: Exercise Session Sec 2
+        start: 3:30 AM
+        end: 4:45 AM
+        location: Bechtel 211
   - name: Friday
     events:
       - name: Lecture Sec 1
         start: 9:00 AM
         end: 9:50 AM
         location: Bechtel 201
-      - name: Lecture Sec 2
+      - name: Lecture Sec 5
         start: 10:00 AM
         end: 10:50 AM
         location: Bechtel 201
