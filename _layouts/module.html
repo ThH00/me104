@@ -1,4 +1,44 @@
-<h2 class="fs-4" id="{{ page.title | slugify }}" >{{ page.title }}</h2>
+<h2 class="fs-4" id="{{ page.title | slugify }}">{{ page.title }}</h2>
 <div class="module">
-  {{ content }}
+  {% for content_item in page.contents %}
+    <div class="module-day">
+      <div class="module-date">
+        {% assign date = content_item.date | date: "%b %d" %}
+        {{ date }}:
+      </div>
+      <div class="module-content">
+        {% for item in content_item.items %}
+          <div class="module-item">
+            {% case item.type %}
+              {% when 'lecture' %}
+                <span class="label label-blue">LECTURE</span>
+                {% if item.topics %}
+                  {% for topic in item.topics %}
+                    <div class="module-description">
+                      <span class="label label-blue">{{ forloop.index }}.</span>
+                      {{ topic }}
+                    </div>
+                  {% endfor %}
+                {% endif %}
+              {% when 'problem_set' %}
+                <span class="label label-green">PROBLEM SET</span>
+                {% if item.title %}
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endif %}
+              {% when 'homework' %}
+                <span class="label label-red">HOMEWORK</span>
+                {% if item.title %}
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endif %}
+                {% if item.due_date %}
+                  (due {{ item.due_date | date: "%b %d" }})
+                {% endif %}
+              {% when 'exercise' %}
+                <span class="label label-yellow">EXERCISE SESSION</span>
+            {% endcase %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
 </div>

@@ -94,4 +94,68 @@
       }
     }
   }
+
+  .module-day {
+    display: flex;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eeebee;
+    
+    &:last-child {
+      border-bottom: none;
+    }
+    
+    .module-date {
+      width: 80px;
+      color: #5c5962;
+    }
+    
+    .module-content {
+      flex: 1;
+    }
+  }
+
+  .module-item {
+    display: block;
+    margin-bottom: 0.5rem;
+    
+    .label {
+      display: inline-block;
+      padding: 0.2em 0.6em;
+      margin-right: 0.5rem;
+      font-size: 14px;
+      font-weight: 600;
+      border-radius: 4px;
+      text-transform: uppercase;
+    }
+    
+    a {
+      color: $purple-000;
+      text-decoration: none;
+      
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .module-description {
+    margin-top: 0.25rem;
+    margin-left: 0.5rem;
+    
+    .label {
+      padding: 0.2em 0.6em;
+      margin-right: 0.5rem;
+    }
+  }
+}
+
+.module-item {
+  display: inline-block;
+  margin-right: 0.5rem;
+  
+  .label {
+    display: inline-block;
+    margin-right: 0.25rem;
+  }
 }
