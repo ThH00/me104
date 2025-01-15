@@ -8,7 +8,7 @@ permalink: /calendar-honein/
 description: Listing of course modules and topics.
 ---
 
-# Calendar - Theresa Honein (Section 1 & 6)
+# Calendar - Theresa Honein (Section 1 & 5)
 
 {% for module in site.modules_honein %}
 {{ module }}
