@@ -35,6 +35,11 @@
                 {% endif %}
               {% when 'exercise' %}
                 <span class="label label-yellow">EXERCISE SESSION</span>
+              {% when 'reading' %}
+                <span class="label label-purple">READING</span>
+                {% if item.title %}
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endif %}
             {% endcase %}
           </div>
         {% endfor %}
