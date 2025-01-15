@@ -1,6 +1,6 @@
 ---
 name: Naya Rahal
-role: Teaching Assistamt
+role: Teaching Assistant
 photo: naya_rahal.png
 meta:
   Office Hours: Somewhere on the internet
