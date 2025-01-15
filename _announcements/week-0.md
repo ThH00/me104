@@ -1,9 +1,17 @@
 ---
 title: Week 0 Announcement
 week: 0
-date: 2025-01-08
+date: 2025-01-15
 ---
 
-Complete this pre-semester checklist:
-- [Pre-semester survey]()
-- [A review of vectors]()
+Dear Students,
+
+We are looking forward to a smooth and productive semester!
+
+Kindly complete the following pre-semester checklist:
+-  Complete the [Pre-semester survey](https://forms.office.com/r/rTf4vBsjDZ)
+-  You have been invited to the class' Teams channel. For the best user experience, download the Teams app.
+- Read [these bits of advice](https://drive.google.com/file/d/1V-WsJTOG-jVP-Rmg3bJIOXwXUHOzCpyk/view?usp=sharing) from the students who tool MECH230 last semester.
+
+Best Regards,
+MECH230 Teaching Team
