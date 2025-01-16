@@ -14,8 +14,8 @@ contents:
         link: "https://drive.google.com/file/d/1UgCdX1SBbsZ-UHrp3NuOiFzE2EiYUiGo/view?usp=sharing"
       - type: homework
         title: HW 01
-        link: "#"
-        due_date: 2024-01-24
+        link: "https://drive.google.com/file/d/1VU5FnzZgYUWdZHI_KMGAGXtP5ulid7NC/view?usp=sharing"
+        due_date: 2024-01-26
       - type: reading
         title: Read chapter 1 of Introduction to Solid Mechanics - An Integrated Approach by Lubliner and Papadopoulos.
         description: reading
