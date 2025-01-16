@@ -5,6 +5,8 @@ contents:
     items:
       - type: lecture
         topics:
+          - Attendance
+          - Overview of syllabus, website, and Teams channel
           - Vector calculus - a summary
       - type: problem_set
         title: Set 01 - Vector Calculus
