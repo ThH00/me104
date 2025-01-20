@@ -7,5 +7,3 @@ photo: theresa.JPG
 meta:
   Office Hours: See [schedule](https://mech230.github.io/schedule/).
 ---
-
-I like teaching Dynamics!
