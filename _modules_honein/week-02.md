@@ -36,6 +36,6 @@ contents:
         link: "https://drive.google.com/file/d/1Vo3a6vd2WXxBIogtj4QlmAPfda8CKj7c/view?usp=sharing"
       - type: homework
         title: HW02
-        link: "#"
+        link: "https://drive.google.com/file/d/1Vrjx6wbrX_gmPC9rGKyGscfWLr-bltEO/view?usp=sharing"
         due_date: 2024-01-31
 ---
