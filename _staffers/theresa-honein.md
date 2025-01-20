@@ -5,7 +5,7 @@ email: theresa.honein at aub.edu.lb
 website: https://thh00.github.io
 photo: theresa.JPG
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: See [schedule](https://mech230.github.io/schedule/).
 ---
 
 I like teaching Dynamics!
