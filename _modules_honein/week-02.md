@@ -11,7 +11,7 @@ contents:
       - type: problem_set
         title: Set 02
         description: Units
-        link: "https://drive.google.com/file/d/1VcstSOKjbvE3IdojaCcXTxtw_7wyHL9Y/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1Vlug1noiXTPI5MT-o8AhA3bYGH6AEZgt/view?usp=sharing"
 
   - date: 2024-01-22
     items:
@@ -21,7 +21,7 @@ contents:
       - type: problem_set
         title: Set 03
         description: Rectilinear motion (acceleration in terms of time, speed, or position)
-        link: "https://drive.google.com/file/d/1VcdLwTBrCPffazLNq6o4TZ1MK1FoY8Qt/view?usp=share_link"
+        link: "https://drive.google.com/file/d/1VirxoNNmar8aKlQiGN17evYDDgbhE_dn/view?usp=sharing"
       - type: exercise
 
   - date: 2024-01-24
