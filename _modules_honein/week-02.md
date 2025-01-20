@@ -9,7 +9,7 @@ contents:
           - A continuum mechanics perspective
           - Velocity, acceleration, arc-length
       - type: problem_set
-        title: Set 02
+        title: Set 02 - Units
         description: Units
         link: "https://drive.google.com/file/d/1Vlug1noiXTPI5MT-o8AhA3bYGH6AEZgt/view?usp=sharing"
 
@@ -19,7 +19,7 @@ contents:
         topics:
           - Rectilinear motion
       - type: problem_set
-        title: Set 03
+        title: Set 03 - Rectilinear Motion
         description: Rectilinear motion (acceleration in terms of time, speed, or position)
         link: "https://drive.google.com/file/d/1VirxoNNmar8aKlQiGN17evYDDgbhE_dn/view?usp=sharing"
       - type: exercise
@@ -31,9 +31,9 @@ contents:
           - Particle Kinetics (BoLM and action-reaction)
           - Four steps to solving a problem using BoLM
       - type: problem_set
-        title: Set 04
+        title: Set 04 - BoLM for a particle
         description: Balance of Linear Momentum (BoLM)
-        link: "#"
+        link: "https://drive.google.com/file/d/1Vo3a6vd2WXxBIogtj4QlmAPfda8CKj7c/view?usp=sharing"
       - type: homework
         title: HW02
         link: "#"
