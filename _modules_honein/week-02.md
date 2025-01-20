@@ -5,30 +5,31 @@ contents:
     items:
       - type: lecture
         topics:
+          - Introducing dynamics
           - A continuum mechanics perspective
           - Velocity, acceleration, arc-length
-          - A note on units
+          - Rectilinear motion
       - type: problem_set
         title: Set 02
-        description: Units
-        link: "#"
+        description: Rectilinear motion (acceleration in terms of time, speed, or position)
+        link: "https://drive.google.com/file/d/1VcstSOKjbvE3IdojaCcXTxtw_7wyHL9Y/view?usp=sharing"
 
   - date: 2024-01-22
     items:
       - type: lecture
         topics:
-          - Rectilinear motion
+          - A note on units
       - type: problem_set
         title: Set 03
-        description: Rectilinear motion (acceleration in terms of time, speed, or position)
-        link: "#"
+        description: Units
+        link: "https://drive.google.com/file/d/1VcdLwTBrCPffazLNq6o4TZ1MK1FoY8Qt/view?usp=share_link"
       - type: exercise
 
   - date: 2024-01-24
     items:
       - type: lecture
         topics:
-          - Particle Kinetics: BoLM and action-reaction
+          - Particle Kinetics (BoLM and action-reaction)
           - Four steps to solving a problem using BoLM
       - type: problem_set
         title: Set 04
