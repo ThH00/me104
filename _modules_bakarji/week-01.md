@@ -5,7 +5,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Introduction to Dynamics
+          - [Introduction to Dynamics](https://www.youtube.com/watch?v=icrTzMozNgo)
           - Applications in Engineering
           - Kinetics and Kinematics Overview
           - Intro to Vector Calculus

@@ -11,10 +11,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Particle Kinematics linear 
+          - Particle Kinematics linear
+          - Problem Solving 
           - Cylindrical Polar Coordinates
-      - type: homework
-        title: HW02
-        link: "#"
-        due_date: 2024-01-30
 --- 
