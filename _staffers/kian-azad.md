@@ -1,7 +1,7 @@
 ---
 name: Kian Azad
 role: Teaching Assistant
-photo: kevin.jpg
+photo: kian_azad.jpeg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: TBD
 ---
