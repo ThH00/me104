@@ -12,9 +12,9 @@ contents:
         description: Units
         link: "https://drive.google.com/file/d/1Vlug1noiXTPI5MT-o8AhA3bYGH6AEZgt/view?usp=sharing"
       - type: problem_set
-          title: Set 03 - Rectilinear Motion
-          description: Rectilinear motion (acceleration in terms of time, speed, or position)
-          link: "https://drive.google.com/file/d/1VirxoNNmar8aKlQiGN17evYDDgbhE_dn/view?usp=sharing"
+        title: Set 03 - Rectilinear Motion
+        description: Rectilinear motion (acceleration in terms of time, speed, or position)
+        link: "https://drive.google.com/file/d/1VirxoNNmar8aKlQiGN17evYDDgbhE_dn/view?usp=sharing"
   - date: 2024-01-23
     items:
       - type: lecture
