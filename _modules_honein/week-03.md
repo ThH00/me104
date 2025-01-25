@@ -6,11 +6,10 @@ contents:
       - type: lecture
         topics:
           - Cylindrical polar coordinates
-          - Components of acceleration explained
       - type: problem_set
-        title: Set 05
+        title: Set 05 - Cylinderical polar coordinates
         description: Cylindrical polar coordinates
-        link: "#"
+        link: "https://drive.google.com/file/d/1a9vlIubxSpJ89vAav1JIHon9_ITwSyOE/view?usp=sharing"
 
   - date: 2024-01-29
     items:
@@ -25,9 +24,9 @@ contents:
         topics:
           - Constrained motion
       - type: problem_set
-        title: Set 06
+        title: Set 06 - Constrained motion
         description: Constrained motion
-        link: "#"
+        link: "https://drive.google.com/file/d/1aB3dHjAMRhr83_x54J6deDukcQ_Ijwtr/view?usp=sharing"
       - type: homework
         title: HW03
         link: "#"
