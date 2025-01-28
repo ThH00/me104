@@ -77,6 +77,10 @@ schedule:
         start: 3:30 PM
         end: 4:45 PM
         location: Bechtel 211
+      - name: Bakarji Office Hours
+        start: 1:00 PM
+        end: 3:00 PM
+        location: Bechtel 418
   - name: Friday
     events:
       - name: Lecture Sec 1
