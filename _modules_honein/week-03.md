@@ -30,6 +30,6 @@ contents:
         link: "https://drive.google.com/file/d/1aB3dHjAMRhr83_x54J6deDukcQ_Ijwtr/view?usp=sharing"
       - type: homework
         title: HW03
-        link: "#"
+        link: "https://drive.google.com/file/d/1do5CqT7SZ46J3oiI2RKcclIM8bRe_Ezc/view?usp=sharing"
         due_date: 2024-02-07
 ---
