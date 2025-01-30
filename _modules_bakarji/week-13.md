@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 13 - Review and Energy Methods
 contents:
   - date: 2024-04-08
@@ -15,4 +15,4 @@ contents:
         title: HW11
         link: "#"
         due_date: 2024-04-17
----
+--- -->

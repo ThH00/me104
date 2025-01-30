@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 06 - Collisions and Systems
 contents:
   - date: 2024-02-18
@@ -15,4 +15,4 @@ contents:
         title: HW06
         link: "#"
         due_date: 2024-02-27
---- 
+---  -->
