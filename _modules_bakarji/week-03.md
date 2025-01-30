@@ -16,7 +16,6 @@ contents:
     items:
       - type: lecture
         topics:
-          - Set 04 Problem 03/005
           - Cylindrical polar coordinates continued
       - type: problem_set
         title: Set 05 - Cylindrical polar coordinates
