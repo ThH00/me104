@@ -33,7 +33,7 @@ schedule:
         location: Bechtel 201
       - name: Honein Office Hours
         start: 3:00 PM
-        end: 5:00 PM
+        end: 5:30 PM
         location: Bechtel 532
   - name: Tuesday
     events:
@@ -67,7 +67,7 @@ schedule:
     events:
       - name: Honein Office Hours
         start: 8:30 AM
-        end: 10:00 AM
+        end: 10:30 AM
         location: Bechtel 532
       - name: Lecture Sec 2
         start: 9:30 AM
