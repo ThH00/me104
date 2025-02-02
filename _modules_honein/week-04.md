@@ -8,9 +8,9 @@ contents:
           - The Serret-Frenet Triad
           - Components of acceleration explained
       - type: problem_set
-        title: Set 07
-        description: The Serret-Frenet Triad
-        link: "#"
+        title: Set 07 - Serret Frenet Basis
+        description: The Serret-Frenet Triad (Kinematics and kinetics)
+        link: "https://drive.google.com/file/d/1fMLRTfZoZhxuJ0r2ytfXeKpjrPOrvM-M/view?usp=sharing"
       - type: reading
         title: See the animations in the Wikipedia page of the Serret-Frenet basis
         description: reading
@@ -20,7 +20,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - The Serret-Frenet Triad, cont.
+          - The Serret-Frenet Triad (Curvature of a plane curve)
       - type: exercise
 
   - date: 2024-02-07
@@ -30,9 +30,9 @@ contents:
           - Quiz Sets 1-7
           - Relative motion between translating rigid bodies
       - type: problem_set
-        title: Set 08
+        title: Set 08 - Relative motion & Corotational Bases
         description: Relative motion between translating rigid bodies
-        link: "#"
+        link: "https://drive.google.com/file/d/1fMwDe103wkkm3KwCcHKJP1txolFj90jO/view?usp=sharing"
       - type: homework
         title: HW04
         link: "#"
