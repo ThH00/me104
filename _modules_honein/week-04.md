@@ -35,6 +35,6 @@ contents:
         link: "https://drive.google.com/file/d/1fMwDe103wkkm3KwCcHKJP1txolFj90jO/view?usp=sharing"
       - type: homework
         title: HW04
-        link: "#"
+        link: "https://drive.google.com/file/d/1fNloK0f5tM6yl33Wem3MbWB8gFHk-DO8/view?usp=sharing"
         due_date: 2024-02-14
 ---
