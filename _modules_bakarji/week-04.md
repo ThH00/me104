@@ -1,21 +1,33 @@
-<!-- ---
+---
 title: Week 04 - Forces and Motion
 contents:
   - date: 2024-02-04
     items:
       - type: lecture
         topics:
-          - Relative Motion Between Bodies
+          - The Serret-Frenet Triad
+          - Components of acceleration explained
       - type: problem_set
-        title: PS6
-        link: "#"
+        title: Set 07 - Serret Frenet Basis
+        description: The Serret-Frenet Triad (Kinematics and kinetics)
+        link: "https://drive.google.com/file/d/1fMLRTfZoZhxuJ0r2ytfXeKpjrPOrvM-M/view?usp=sharing"
+      - type: reading
+        title: See the animations in the Wikipedia page of the Serret-Frenet basis
+        description: reading
+        link: "https://en.wikipedia.org/wiki/Frenet–Serret_formulas"
+
   - date: 2024-02-06
     items:
       - type: lecture
         topics:
-          - Types of forces: springs and friction (duplicate)
+          - Quiz Sets 1-7
+          - Relative motion between translating rigid bodies
+      - type: problem_set
+        title: Set 08 - Relative motion & Corotational Bases
+        description: Relative motion between translating rigid bodies
+        link: "https://drive.google.com/file/d/1fMwDe103wkkm3KwCcHKJP1txolFj90jO/view?usp=sharing"
       - type: homework
         title: HW04
-        link: "#"
+        link: "https://drive.google.com/file/d/1fNloK0f5tM6yl33Wem3MbWB8gFHk-DO8/view?usp=sharing"
         due_date: 2024-02-13
----  -->
+--- 
