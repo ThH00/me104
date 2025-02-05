@@ -1,14 +1,14 @@
 ---
 title: Week 05 - Linear Springs and Friction
 contents:
-  - date: 2024-02-03
+  - date: 2024-10-03
     items:
     - type: lecture
       topics:
         - No Class
   
 
-  - date: 2024-02-05
+  - date: 2024-12-05
     items:
       - type: lecture
         topics:
@@ -26,7 +26,7 @@ contents:
         link: "###"
       - type: exercise
 
-  - date: 2024-02-07
+  - date: 2024-14-07
     items:
     - type: lecture
       topics:
