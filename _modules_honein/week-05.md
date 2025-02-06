@@ -1,11 +1,11 @@
 ---
 title: Week 05 - Linear Springs and Friction
 contents:
-  - date: 2024-10-03
+  - date: 2024-02-10
     items:
-    - type: lecture
-      topics:
-        - No Class
+      - type: lecture
+        topics:
+          - No Class
   
 
   - date: 2024-12-05
@@ -19,16 +19,20 @@ contents:
       - type: problem_set
         title: Set 09 - Linear Springs
         description: Linear Springs
-        link: ""
+        link: "###"
       - type: problem_set
         title: Set 10 - Friction
         description: Friction
         link: "###"
       - type: exercise
 
-  - date: 2024-14-07
+  - date: 2024-02-14
     items:
-    - type: lecture
-      topics:
-        - No Class
+      - type: lecture
+        topics:
+          - No Class
+      - type: homework
+        title: HW05
+        link: "###"
+        due_date: 2024-02-21
 ---
