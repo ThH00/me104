@@ -1,0 +1,40 @@
+---
+title: Week 06 - The Serret-Frenet Triad
+contents:
+  - date: 2024-02-03
+    items:
+      - type: lecture
+        topics:
+          - The Serret-Frenet Triad
+          - Components of acceleration explained
+      - type: problem_set
+        title: Set 07 - Serret Frenet Basis
+        description: The Serret-Frenet Triad (Kinematics and kinetics)
+        link: "https://drive.google.com/file/d/1fMLRTfZoZhxuJ0r2ytfXeKpjrPOrvM-M/view?usp=sharing"
+      - type: reading
+        title: See the animations in the Wikipedia page of the Serret-Frenet basis
+        description: reading
+        link: "https://en.wikipedia.org/wiki/Frenet–Serret_formulas"
+
+  - date: 2024-02-05
+    items:
+      - type: lecture
+        topics:
+          - The Serret-Frenet Triad (Curvature of a plane curve)
+      - type: exercise
+
+  - date: 2024-02-07
+    items:
+      - type: lecture
+        topics:
+          - Quiz Sets 1-7
+          - Relative motion between translating rigid bodies
+      - type: problem_set
+        title: Set 08 - Relative motion & Corotational Bases
+        description: Relative motion between translating rigid bodies
+        link: "https://drive.google.com/file/d/1fMwDe103wkkm3KwCcHKJP1txolFj90jO/view?usp=sharing"
+      - type: homework
+        title: HW04
+        link: "https://drive.google.com/file/d/1fNloK0f5tM6yl33Wem3MbWB8gFHk-DO8/view?usp=sharing"
+        due_date: 2024-02-14
+---
