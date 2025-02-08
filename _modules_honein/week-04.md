@@ -6,7 +6,6 @@ contents:
       - type: lecture
         topics:
           - The Serret-Frenet Triad
-          - Components of acceleration explained
       - type: problem_set
         title: Set 07 - Serret Frenet Basis
         description: The Serret-Frenet Triad (Kinematics and kinetics)
