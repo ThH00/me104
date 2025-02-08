@@ -12,10 +12,11 @@ contents:
     items:
       - type: lecture
         topics:
-          - [Explaining spring force](https://www.youtube.com/watch?v=WtTDHW2JUVY)
-          - [Spring force examples](https://www.youtube.com/watch?v=YiOZregJx9w)
-          - [Explaining the friction force](https://www.youtube.com/watch?v=_fvCFtpL3c8)
-          - [Particle on a curve vs. particle on a surface](https://www.youtube.com/watch?v=XNdP7Nk850s)
+          - Explaining the spring force
+          # - [Explaining spring force](https://www.youtube.com/watch?v=WtTDHW2JUVY)
+          # - [Spring force examples](https://www.youtube.com/watch?v=YiOZregJx9w)
+          # - [Explaining the friction force](https://www.youtube.com/watch?v=_fvCFtpL3c8)
+          # - [Particle on a curve vs. particle on a surface](https://www.youtube.com/watch?v=XNdP7Nk850s)
       - type: problem_set
         title: Set 09 - Linear Springs
         description: Linear Springs
