@@ -33,11 +33,11 @@ contents:
       - type: problem_set
         title: Set 09 - Linear Springs
         description: Linear Springs
-        link: "###"
+        link: "https://drive.google.com/file/d/1iBwfgG3gCtvfSjRzzXAN2MFYAQqQbVVB/view?usp=sharing"
       - type: problem_set
         title: Set 10 - Friction
         description: Friction
-        link: "###"
+        link: "https://drive.google.com/file/d/1iDJlfAWHS_9K6zz-71NLSkCnhiXW8KCN/view?usp=sharing"
       - type: exercise
 
   - date: 2024-02-14
@@ -47,6 +47,6 @@ contents:
           - No Class
       - type: homework
         title: HW05
-        link: "###"
+        link: "https://drive.google.com/file/d/1iGrRojecF2tzwA1ORZeAw26zONskLpkg/view?usp=sharing"
         due_date: 2024-02-21
 ---
