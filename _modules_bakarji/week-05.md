@@ -8,6 +8,9 @@ contents:
           - Spring force
           - Friction force
       - type: reading
+        title: Primer, O'Reilly - Chapter 4
+        description: reading
+      - type: reading
         title: Explaining spring force
         description: reading
         link: "https://www.youtube.com/watch?v=WtTDHW2JUVY"

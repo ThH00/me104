@@ -27,6 +27,10 @@ contents:
         title: Set 04 - BoLM for a particle
         description: Balance of Linear Momentum (BoLM)
         link: "https://drive.google.com/file/d/1Vo3a6vd2WXxBIogtj4QlmAPfda8CKj7c/view?usp=sharing"
+      - type: reading
+        title: Projectile Motion
+        description: Video 
+        link: "https://www.youtube.com/watch?v=UcVMUwsAdBw&ab_channel=JosephBakarji" 
       - type: homework
         title: HW02
         link: "https://drive.google.com/file/d/1Vrjx6wbrX_gmPC9rGKyGscfWLr-bltEO/view?usp=sharing"
