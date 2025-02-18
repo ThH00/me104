@@ -20,6 +20,8 @@ description: >-
 
 Here are links to some written problem solutions.
 - [A particle tracing a circle in Cartesian coordinates](https://drive.google.com/file/d/1a8vDyc-8ctPpj-8B3ZW3Y93bjry_36Gk/view?usp=sharing)
+- [Problem 03-058](https://drive.google.com/file/d/1jlqnUDRZ64wUjA4R86KY4QDaMdM6nPAs/view?usp=sharing)
+- [Problem 03-059](https://drive.google.com/file/d/1jkK3fs6H0opT4oXNbtHTEsvCntkiuK_d/view?usp=sharing)
 
 Also I have posted solution videos to a few problem set problems on my Youtube channel. (Lookup Theresa Honein on Youtube. I think that if you subscribe and click the bell icon, you will get automatic notifications when I upload a video.)
 
