@@ -1,18 +1,19 @@
-<!-- ---
-title: Week 06 - Collisions and Systems
-contents:
+---
   - date: 2024-02-18
     items:
       - type: lecture
         topics:
-          - Collisions
+          - Deriving the work-energy theorem
+          - Set 10 Problem 03-049
+          - Definitions of power, work and kinetic energy
+          - Conservative forces
+      - type: problem_set
+        title: Set 10 - Power, Work and Energy
+        description: Power, Work and Energy
+        link: "https://drive.google.com/file/d/1lZ9ceDqB0Ggzkzi2-_ZvnSHJWBZiPnzw/view?usp=sharing"
   - date: 2024-02-20
     items:
       - type: lecture
         topics:
-          - Systems of particles
-      - type: homework
-        title: HW06
-        link: "#"
-        due_date: 2024-02-27
----  -->
+          - No Class 
+--- 

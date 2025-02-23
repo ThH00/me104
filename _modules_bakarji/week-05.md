@@ -8,6 +8,9 @@ contents:
           - Spring force
           - Friction force
       - type: reading
+        title: Primer, O'Reilly - Chapter 4
+        description: reading
+      - type: reading
         title: Explaining spring force
         description: reading
         link: "https://www.youtube.com/watch?v=WtTDHW2JUVY"
@@ -32,13 +35,15 @@ contents:
         description: Friction
         link: "https://drive.google.com/file/d/1iDJlfAWHS_9K6zz-71NLSkCnhiXW8KCN/view?usp=sharing"
       - type: exercise
-  # - date: 2024-02-13
-  #   items:
-  #     - type: lecture
-  #       topics:
-  #         - 
-  #     - type: homework
-  #       title: HW05
-  #       link: "#"
-  #       due_date: 2024-02-20
+  - date: 2024-02-13
+    items:
+      - type: lecture
+        topics:
+          - Spring force
+          - Friction force
+      - type: homework
+        title: HW05
+        link: "https://drive.google.com/file/d/1iGrRojecF2tzwA1ORZeAw26zONskLpkg/view?usp=sharing"
+        due_date: 2024-02-21
+
 --- 
