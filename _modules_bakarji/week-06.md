@@ -1,4 +1,6 @@
 ---
+title: Week 06 - Power, Work and Energy
+contents:
   - date: 2024-02-18
     items:
       - type: lecture
