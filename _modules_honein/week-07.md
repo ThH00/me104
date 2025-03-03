@@ -6,7 +6,6 @@ contents:
       - type: lecture
         topics:
           - Linear impulse and linear momentum
-          - Angular impulse and angular momentum
       - type: problem_set
         title: Set 12 - Momenta and Impulses for a Particle
         description: Momenta and Impulses for a Particle
@@ -16,7 +15,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Set 12 problems
+          - Angular impulse and angular momentum
       - type: exercise
 
   - date: 2024-02-28
