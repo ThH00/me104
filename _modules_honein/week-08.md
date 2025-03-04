@@ -10,6 +10,10 @@ contents:
         title: Set 13 - Collisions
         description: Collisions
         link: "https://drive.google.com/file/d/1h142NMWq0rziWHnV7sSyqePCm-nmlQgD/view?usp=sharing"
+      - type: homework
+        title: HW06
+        link: "https://drive.google.com/file/d/173zJRCVWLZm-BobcKKJfxNfmE-7NYnWk/view?usp=sharing"
+        due_date: 2024-03-10
 
   - date: 2024-02-26
     items:
@@ -24,4 +28,3 @@ contents:
         topics:
           - TBD
 ---
-
