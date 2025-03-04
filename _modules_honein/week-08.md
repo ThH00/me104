@@ -19,12 +19,16 @@ contents:
     items:
       - type: lecture
         topics:
-          - Set 13 problems
+          - Exercises
       - type: exercise
 
   - date: 2024-02-28
     items:
       - type: lecture
         topics:
-          - TBD
+          - Systems of Particles
+      - type: problem_set
+        title: Set 14 - System of Particles
+        description: System of Particles
+        link: "https://drive.google.com/file/d/1LQjxuQvwkmFPCNPruj3RIaBV9knBjMre/view?usp=share_link"
 ---
