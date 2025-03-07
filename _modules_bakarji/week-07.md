@@ -15,4 +15,9 @@ contents:
       - type: lecture
         topics:
           - Review for Midterm 1
+
+  - date: 2024-03-01
+    items:
+      - type: midterm
+
 --- 

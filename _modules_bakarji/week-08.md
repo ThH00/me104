@@ -18,10 +18,6 @@ contents:
         topics:
           - Collisions
           - System of Particles
-      - type: homework
-        title: HW06
-        link: "https://drive.google.com/file/d/173zJRCVWLZm-BobcKKJfxNfmE-7NYnWk/view?usp=sharing"
-        due_date: 2024-03-10
       - type: problem_set
         title: Set 13 - Collisions
         description: Collisions
@@ -30,5 +26,8 @@ contents:
         title: Set 14 - System of Particles
         description: System of Particles
         link: "https://drive.google.com/file/d/1LQjxuQvwkmFPCNPruj3RIaBV9knBjMre/view?usp=share_link"
-
+      - type: homework
+        title: HW06
+        link: "https://drive.google.com/file/d/173zJRCVWLZm-BobcKKJfxNfmE-7NYnWk/view?usp=sharing"
+        due_date: 2024-03-10
 ---
