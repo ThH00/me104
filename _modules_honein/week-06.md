@@ -1,7 +1,7 @@
 ---
 title: Week 06 - Power, Work and Energy
 contents:
-  - date: 2024-02-17
+  - date: 2025-02-17
     items:
       - type: lecture
         topics:
@@ -13,7 +13,7 @@ contents:
         description: Power, Work and Energy
         link: "https://drive.google.com/file/d/1lZ9ceDqB0Ggzkzi2-_ZvnSHJWBZiPnzw/view?usp=sharing"
 
-  - date: 2024-02-19
+  - date: 2025-02-19
     items:
       - type: lecture
         topics:
@@ -21,7 +21,7 @@ contents:
           - Conservative forces
       - type: exercise
 
-  - date: 2024-02-21
+  - date: 2025-02-21
     items:
       - type: lecture
         topics:

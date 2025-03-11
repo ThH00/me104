@@ -1,7 +1,7 @@
 ---
 title: Week 03 - The Cylindrical Polar Coordinate System
 contents:
-  - date: 2024-01-27
+  - date: 2025-01-27
     items:
       - type: lecture
         topics:
@@ -12,14 +12,14 @@ contents:
         description: Cylindrical polar coordinates
         link: "https://drive.google.com/file/d/1a9vlIubxSpJ89vAav1JIHon9_ITwSyOE/view?usp=sharing"
 
-  - date: 2024-01-29
+  - date: 2025-01-29
     items:
       - type: lecture
         topics:
           - Cylindrical polar coordinates, cont.
       - type: exercise
 
-  - date: 2024-01-31
+  - date: 2025-01-31
     items:
       - type: lecture
         topics:
@@ -31,5 +31,5 @@ contents:
       - type: homework
         title: HW03
         link: "https://drive.google.com/file/d/1drGcmfoWiOcY_KB17PyqrVr21tnWA9Sx/view?usp=sharing"
-        due_date: 2024-02-07
+        due_date: 2025-02-07
 ---

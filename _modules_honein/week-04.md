@@ -1,7 +1,7 @@
 ---
 title: Week 04 - The Serret-Frenet Triad
 contents:
-  - date: 2024-02-03
+  - date: 2025-02-03
     items:
       - type: lecture
         topics:
@@ -15,14 +15,14 @@ contents:
         description: reading
         link: "https://en.wikipedia.org/wiki/Frenet–Serret_formulas"
 
-  - date: 2024-02-05
+  - date: 2025-02-05
     items:
       - type: lecture
         topics:
           - The Serret-Frenet Triad (Curvature of a plane curve)
       - type: exercise
 
-  - date: 2024-02-07
+  - date: 2025-02-07
     items:
       - type: lecture
         topics:
@@ -35,5 +35,5 @@ contents:
       - type: homework
         title: HW04
         link: "https://drive.google.com/file/d/1fNloK0f5tM6yl33Wem3MbWB8gFHk-DO8/view?usp=sharing"
-        due_date: 2024-02-14
+        due_date: 2025-02-14
 ---

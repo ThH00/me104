@@ -1,7 +1,7 @@
 ---
 title: Week 02 - Single Particle in Cartesian Coodinates
 contents:
-  - date: 2024-01-20
+  - date: 2025-01-20
     items:
       - type: lecture
         topics:
@@ -13,7 +13,7 @@ contents:
         description: Units
         link: "https://drive.google.com/file/d/1Vlug1noiXTPI5MT-o8AhA3bYGH6AEZgt/view?usp=sharing"
 
-  - date: 2024-01-22
+  - date: 2025-01-22
     items:
       - type: lecture
         topics:
@@ -24,7 +24,7 @@ contents:
         link: "https://drive.google.com/file/d/1VirxoNNmar8aKlQiGN17evYDDgbhE_dn/view?usp=sharing"
       - type: exercise
 
-  - date: 2024-01-24
+  - date: 2025-01-24
     items:
       - type: lecture
         topics:
@@ -37,5 +37,5 @@ contents:
       - type: homework
         title: HW02
         link: "https://drive.google.com/file/d/1Vrjx6wbrX_gmPC9rGKyGscfWLr-bltEO/view?usp=sharing"
-        due_date: 2024-01-31
+        due_date: 2025-01-31
 ---

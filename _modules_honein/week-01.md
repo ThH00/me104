@@ -1,7 +1,7 @@
 ---
 title: Week 01 - Motivating Dynamics & Preliminary on Vectors
 contents:
-  - date: 2024-01-17
+  - date: 2025-01-17
     items:
       - type: lecture
         topics:
@@ -15,7 +15,7 @@ contents:
       - type: homework
         title: HW 01
         link: "https://drive.google.com/file/d/1VU5FnzZgYUWdZHI_KMGAGXtP5ulid7NC/view?usp=sharing"
-        due_date: 2024-01-26
+        due_date: 2025-01-26
       - type: reading
         title: Read chapter 1 of Introduction to Solid Mechanics - An Integrated Approach by Lubliner and Papadopoulos.
         description: reading

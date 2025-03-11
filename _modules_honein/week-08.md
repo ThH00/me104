@@ -1,7 +1,7 @@
 ---
 title: Week 08 - Collisions
 contents:
-  - date: 2024-02-24
+  - date: 2025-03-03
     items:
       - type: lecture
         topics:
@@ -13,16 +13,19 @@ contents:
       - type: homework
         title: HW06
         link: "https://drive.google.com/file/d/173zJRCVWLZm-BobcKKJfxNfmE-7NYnWk/view?usp=sharing"
-        due_date: 2024-03-10
+        due_date: 2025-03-10
 
-  - date: 2024-02-26
+  - date: 2025-02-26
     items:
       - type: lecture
         topics:
-          - Exercises
+          - type: reading
+            title: Problem 03/193 on conservation of angular momentum and the work-energy theorem
+            description: reading
+            link: "https://thh00.github.io/08-2024-dynamics/HW/HW05.pdf"
       - type: exercise
 
-  - date: 2024-02-28
+  - date: 2025-02-28
     items:
       - type: lecture
         topics:
