@@ -20,9 +20,9 @@ contents:
       - type: lecture
         topics:
           - type: reading
-            title: Problem 03/193 on conservation of angular momentum and the work-energy theorem
+            title: Problem 03/193 on angular momentum and energy
             description: reading
-            link: "https://thh00.github.io/08-2024-dynamics/HW/HW05.pdf"
+            link: "https://drive.google.com/file/d/1JzMeF_2WO-cJh1Q4eu1ISxveMX4izxp_/view?usp=share_link"
       - type: exercise
 
   - date: 2025-02-28
