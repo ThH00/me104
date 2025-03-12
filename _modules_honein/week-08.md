@@ -19,10 +19,11 @@ contents:
     items:
       - type: lecture
         topics:
-          - type: reading
-            title: Problem 03/193 on angular momentum and energy
-            description: reading
-            link: "https://drive.google.com/file/d/1JzMeF_2WO-cJh1Q4eu1ISxveMX4izxp_/view?usp=share_link"
+          - Problem 03/193
+      - type: reading
+        title: Problem 03/193 on angular momentum and energy
+        description: reading
+        link: "https://drive.google.com/file/d/1JzMeF_2WO-cJh1Q4eu1ISxveMX4izxp_/view?usp=share_link"
       - type: exercise
 
   - date: 2025-02-28
