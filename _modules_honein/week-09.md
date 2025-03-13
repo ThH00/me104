@@ -26,6 +26,6 @@ contents:
       - type: problem_set
         title: Set 15 - Kinematics of Rigid Bodies
         description: Kinematics of Rigid Bodies
-        link: "###"
+        link: "https://drive.google.com/file/d/1KOWP4zihUDZe9XPkCrq9AbNa0qIx6rjm/view?usp=share_link"
 
 ---
