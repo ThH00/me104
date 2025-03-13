@@ -1,18 +1,27 @@
-<!-- ---
-title: Week 09 - Rigid Body Motion
+---
+title: Week 09 - Systems of Particles
 contents:
-  - date: 2024-03-11
+  - date: 2025-03-11
     items:
       - type: lecture
         topics:
-          - Rigid body kinematics
-  - date: 2024-03-13
-    items:
-      - type: lecture
-        topics:
-          - Center of mass, rolling and sliding, mass moments of inertia
+          - Systems of Particles - Kinematics and Kinetics
+          - Exam 1 Review
       - type: homework
-        title: HW08
-        link: "#"
-        due_date: 2024-03-20
----  -->
+        title: HW07
+        link: "https://drive.google.com/file/d/1JytzrfMCXAextGRrubdZPEgIFRnd-_EI/view?usp=share_link"
+        due_date: 2025-03-19
+      - type: exercise
+
+  - date: 2025-03-13
+    items:
+      - type: lecture
+        topics:
+          - Problem Solving
+          - Kinematics of Rigid Bodies
+      - type: problem_set
+        title: Set 15 - Kinematics of Rigid Bodies
+        description: Kinematics of Rigid Bodies
+        link: "###"
+
+---
