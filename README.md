@@ -32,5 +32,7 @@ The section number links to course syllabus. Please read your section's syllabus
 | Semester | Exam 1 | Solution | Exam 2 | Solution | Final | Final Formula Sheet | Solution |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | Fall 2024 | [Exam](https://drive.google.com/file/d/1fpyogKU72hAk62joaXF57r_IyN-hvyrX/view?usp=sharing) | [Solution](https://drive.google.com/file/d/1gEF7iLhqBAmBBbsNmlnsfmzRhn-U-z8h/view?usp=sharing) | [Exam](https://drive.google.com/file/d/1EsWH744Ea9hTqATIefX_iNISh8Yit5By/view?usp=sharing) | [Solution](https://drive.google.com/file/d/1TkYUfnPO1sOTNMaOrFGUUBSUmpVRY5u6/view?usp=sharing) | [Final](https://drive.google.com/file/d/1UM0d436fD1UeuP0GWjcqIyFP_Lrfrv2M/view?usp=share_link) | [Final Formula Sheet](https://drive.google.com/file/d/1SEIcqV9ZGopW-3rXGl6u-v4yAV9b6NoM/view?usp=sharing) | [Solution](https://drive.google.com/file/d/1ULFXXRHoYjYegWJ-E-Ray_JmYSu70aNZ/view?usp=sharing) |
+| Spring 2025 | [Exam](https://drive.google.com/file/d/1nYIM1DQM-xVw40f7MYHySVGbD_-mvGR7/view?usp=share_link) | [Solution](https://drive.google.com/file/d/1nZ_2hlN742mQefcQq80z4JaBwRkUrTUg/view?usp=share_link) | Exam | Solution | Final | Final Formula Sheet | Solution |
+| Fall 2025 | Exam | Solution | Exam | Solution | Final | Final Formula Sheet | Solution |
 
 
