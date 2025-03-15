@@ -7,7 +7,7 @@ contents:
         topics:
           - Systems of Particles - Kinematics and Kinetics
 
-  - date: 2025-02-12
+  - date: 2025-03-12
     items:
       - type: lecture
         topics:
@@ -18,11 +18,12 @@ contents:
         due_date: 2025-03-19
       - type: exercise
 
-  - date: 2025-02-14
+  - date: 2025-03-14
     items:
       - type: lecture
         topics:
           - Kinematics of Rigid Bodies
+          - Velocity and Acceleration Analysis of Two Material Points on a Rigid Body
       - type: problem_set
         title: Set 15 - Kinematics of Rigid Bodies
         description: Kinematics of Rigid Bodies
