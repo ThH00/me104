@@ -30,6 +30,6 @@ contents:
 
   - date: 2025-04-05
     items:
-      - type: midterm
+      - type: exam
 
 ---
