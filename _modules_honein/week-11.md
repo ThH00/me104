@@ -11,9 +11,9 @@ contents:
         description: Rolling and Sliding
         link: "https://drive.google.com/file/d/1KwIoSV4r5BE3wHTuAacSDA_edLuWJ51w/view?usp=sharing"
       - type: homework
-          title: HW09 - Cylinder on Truck
-          link: "###"
-          due_date: 2025-04-02
+        title: HW09 - Cylinder on Truck
+        link: "###"
+        due_date: 2025-04-02
 
   - date: 2025-03-26
     items:
@@ -32,9 +32,9 @@ contents:
         topics:
           - Moment of Inertia, cont.
       - type: homework
-          title: HW10 - Products of Inertia
-          link: "###"
-          due_date: 2025-04-07
+        title: HW10 - Products of Inertia
+        link: "###"
+        due_date: 2025-04-07
       
 
 ---

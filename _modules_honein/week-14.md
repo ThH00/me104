@@ -18,9 +18,9 @@ contents:
         topics:
           - Set 23 Exercises
       - type: homework
-          title: HW012 - Ice Skater Angular Momentum Conservation
-          link: "###"
-          due_date: 2025-04-11
+        title: HW012 - Ice Skater Angular Momentum Conservation
+        link: "###"
+        due_date: 2025-04-11
 
   - date: 2025-04-18
     items:
