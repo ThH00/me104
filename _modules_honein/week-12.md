@@ -27,6 +27,10 @@ contents:
         title: Set 20 - Fixed Point Rotation
         description: Fixed Point Rotation
         link: "https://drive.google.com/file/d/1L16eGrvrWNQCYhchf-gQE6NI8b3lTFY6/view?usp=sharing"
+      - type: homework
+          title: HW011 - Fixed Point Rotation
+          link: "###"
+          due_date: 2025-04-11
 
   - date: 2025-04-05
     items:

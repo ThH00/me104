@@ -1,5 +1,5 @@
 ---
-title: Week 15 - Impulse Momentum for RB
+title: Week 15 - Work-Energy Theorem for RB
 contents:
   - date: 2025-04-21
     items:
@@ -11,17 +11,17 @@ contents:
     items:
       - type: lecture
         topics:
-          - Impulse Momentum for RB
+          - Work-Energy Theorem for RB
       - type: problem_set
-        title: Set 23 - Impulse Momentum for RB
-        description: Impulse Momentum for RB
-        link: "https://drive.google.com/file/d/1KllpcrDVxXPpmR3MhVBo8uygIOIQeLGb/view?usp=sharing"
-      - type: exercise
+        title: Set 22 - Work-Energy Theorem for RB
+        description: Work-Energy Theorem for RB
+        link: "https://drive.google.com/file/d/1KpQ6sQ7p7xIcSjHCd8yObJM8xBF1IQub/view?usp=sharing"
 
   - date: 2025-04-25
     items:
       - type: lecture
         topics:
-          - Set 23 Exercises
+          - Set 22 Exercises
+      - type: exercise
 
 ---

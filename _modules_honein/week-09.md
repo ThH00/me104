@@ -13,7 +13,7 @@ contents:
         topics:
           - Exercises from Set 14
       - type: homework
-        title: HW07
+        title: HW07 - System of Particles
         link: "https://drive.google.com/file/d/1JytzrfMCXAextGRrubdZPEgIFRnd-_EI/view?usp=share_link"
         due_date: 2025-03-19
       - type: exercise
