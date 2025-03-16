@@ -6,10 +6,6 @@ contents:
       - type: lecture
         topics:
           - Set 15 Exercises
-      - type: homework
-        title: HW08 - RB Kinemtatics and IC
-        link: "https://drive.google.com/file/d/1LBPATOrpx-Rju3013d9Gb2FXSckZ6elr/view?usp=share_link"
-        due_date: 2025-03-26
 
   - date: 2025-03-19
     items:
@@ -20,6 +16,10 @@ contents:
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
         link: "https://drive.google.com/file/d/1KxXJttmcYcssLFuUNx7aSkQNUTeJJGMX/view?usp=sharing"
+      - type: homework
+        title: HW08 - RB Kinemtatics and IC
+        link: "https://drive.google.com/file/d/1LBPATOrpx-Rju3013d9Gb2FXSckZ6elr/view?usp=share_link"
+        due_date: 2025-03-26
       - type: exercise
 
   - date: 2025-03-21
