@@ -20,7 +20,7 @@ contents:
       - type: homework
         title: HW012 - Ice Skater Angular Momentum Conservation
         link: "###"
-        due_date: 2025-04-11
+        due_date: 2025-04-23
 
   - date: 2025-04-18
     items:
