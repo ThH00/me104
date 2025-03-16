@@ -15,7 +15,7 @@ contents:
       - type: problem_set
         title: Set 19 - RB Translation
         description: RB Translation
-        link: "###"
+        link: "https://drive.google.com/file/d/1L2Mn9U8UzaEwE4rNGpvkP-cKruhIFZB9/view?usp=sharing"
       - type: exercise
 
   - date: 2025-04-04
@@ -26,7 +26,7 @@ contents:
       - type: problem_set
         title: Set 20 - Fixed Point Rotation
         description: Fixed Point Rotation
-        link: "###"
+        link: "https://drive.google.com/file/d/1L16eGrvrWNQCYhchf-gQE6NI8b3lTFY6/view?usp=sharing"
 
   - date: 2025-04-05
     items:

@@ -9,7 +9,7 @@ contents:
       - type: problem_set
         title: Set 17 - Rolling and Sliding
         description: Rolling and Sliding
-        link: "###"
+        link: "https://drive.google.com/file/d/1KwIoSV4r5BE3wHTuAacSDA_edLuWJ51w/view?usp=sharing"
 
   - date: 2025-02-26
     items:
@@ -19,7 +19,7 @@ contents:
       - type: problem_set
         title: Set 18 - Moments of Inertia
         description: Moments of Inertia
-        link: "###"
+        link: "https://drive.google.com/file/d/1KrTaNkcMePa50peY0-PUOBRNzSfpEStg/view?usp=sharing"
       - type: exercise
 
   - date: 2025-02-28

@@ -9,7 +9,7 @@ contents:
       - type: problem_set
         title: Set 21 - General Plane Motion
         description: General Plane Motion
-        link: "###"
+        link: "https://drive.google.com/file/d/1L1QVEo4zkWVCNDn7zx1kxuOInFSvWtyt/view?usp=sharing"
 
   - date: 2025-04-09
     items:

@@ -15,13 +15,13 @@ contents:
       - type: problem_set
         title: Set 23 - Impulse Momentum for RB
         description: Impulse Momentum for RB
-        link: "###"
+        link: "https://drive.google.com/file/d/1KllpcrDVxXPpmR3MhVBo8uygIOIQeLGb/view?usp=sharing"
       - type: exercise
 
   - date: 2025-04-25
     items:
       - type: lecture
         topics:
-          - Set 15 Exercises
+          - Set 23 Exercises
 
 ---

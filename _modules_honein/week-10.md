@@ -15,7 +15,7 @@ contents:
       - type: problem_set
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
-        link: "###"
+        link: "https://drive.google.com/file/d/1KxXJttmcYcssLFuUNx7aSkQNUTeJJGMX/view?usp=sharing"
       - type: exercise
 
   - date: 2025-03-21
