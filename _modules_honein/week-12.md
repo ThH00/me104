@@ -11,26 +11,15 @@ contents:
     items:
       - type: lecture
         topics:
-          - Rigid Bodies in Translation
-      - type: problem_set
-        title: Set 19 - RB Translation
-        description: RB Translation
-        link: "https://drive.google.com/file/d/1L2Mn9U8UzaEwE4rNGpvkP-cKruhIFZB9/view?usp=sharing"
-      - type: exercise
+          - No Class
 
   - date: 2025-04-04
     items:
+    - type: lecture
       - type: lecture
         topics:
-          - Fixed Point Rotation
-      - type: problem_set
-        title: Set 20 - Fixed Point Rotation
-        description: Fixed Point Rotation
-        link: "https://drive.google.com/file/d/1L16eGrvrWNQCYhchf-gQE6NI8b3lTFY6/view?usp=sharing"
-      - type: homework
-        title: HW011 - Fixed Point Rotation
-        link: "https://drive.google.com/file/d/1LIe8PWmmb8KWuMRMRZJdEzdauHFpOzb4/view?usp=sharing"
-        due_date: 2025-04-14
+          - Moment of Inertia, cont.
+      
 
   - date: 2025-04-05
     items:

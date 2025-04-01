@@ -10,7 +10,6 @@ contents:
         title: Set 23 - Impulse Momentum for RB
         description: Impulse Momentum for RB
         link: "https://drive.google.com/file/d/1KllpcrDVxXPpmR3MhVBo8uygIOIQeLGb/view?usp=sharing"
-      - type: exercise
 
   - date: 2025-04-16
     items:
@@ -21,6 +20,7 @@ contents:
         title: HW012 - Ice Skater Angular Momentum Conservation
         link: "###"
         due_date: 2025-04-23
+      - type: exercise
 
   - date: 2025-04-18
     items:
