@@ -4,8 +4,8 @@ contents:
   - date: 2025-04-07
     items:
       - type: lecture
-          topics:
-            - Rigid Bodies in Translation
+        topics:
+          - Rigid Bodies in Translation
       - type: problem_set
         title: Set 19 - RB Translation
         description: RB Translation

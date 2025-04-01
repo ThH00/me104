@@ -15,7 +15,6 @@ contents:
 
   - date: 2025-04-04
     items:
-    - type: lecture
       - type: lecture
         topics:
           - Moment of Inertia, cont.
