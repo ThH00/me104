@@ -35,33 +35,33 @@ contents:
       - type: lecture
         topics:
           - Moment of Inertia, cont.
-      - type: reading
+      - type: video
         title: Center of mass and linear momentum of a rigid body
-        description: reading
+        description: video
         link: "https://youtu.be/101EriK4HIQ"
-      - type: reading
+      - type: video
         title: Angular momentum of a rigid body
-        description: reading
+        description: video
         link: "https://youtu.be/BGa_d4LscWQ"
-      - type: reading
+      - type: video
         title: Moments and products of inertia
-        description: reading
+        description: video
         link: "https://youtu.be/BP1N9zFeY98"
       - type: video
         title: Example - inertias of a solid cylinder
         description: video
         link: "https://youtu.be/Z5ugvTjmLys"
-      - type: reading
+      - type: video
         title: The radius of gyration
-        description: reading
+        description: video
         link: "https://youtube.com/shorts/pRxOpqpKq78"
-      - type: reading
+      - type: video
         title: The parallel axis theorem
-        description: reading
+        description: video
         link: "https://youtube.com/shorts/pRxOpqpKq78"
-      - type: reading
+      - type: video
         title: Example - parallel axis theorem on a solid cylinder
-        description: reading
+        description: video
         link: "https://youtu.be/8R_cF2e_9nU"
       - type: reading
         title: Notes pdf
