@@ -13,7 +13,7 @@ contents:
       - type: homework
         title: HW09 - Cylinder on Truck
         link: "https://drive.google.com/file/d/1LIo77ToWPTe0v-9TZAtbNtWj-qZ_2WuG/view?usp=sharing"
-        due_date: 2025-04-02
+        due_date: 2025-04-07
 
   - date: 2025-03-26
     items:
@@ -70,7 +70,7 @@ contents:
       - type: homework
         title: HW10 - Products of Inertia
         link: "https://drive.google.com/file/d/1LHWb3OWMIkeF4QX78EONR6v5vppMeuRO/view?usp=sharing"
-        due_date: 2025-04-07
+        due_date: 2025-04-09
       
 
 ---
