@@ -47,9 +47,9 @@ contents:
         title: Moments and products of inertia
         description: reading
         link: "https://youtu.be/BP1N9zFeY98"
-      - type: reading
+      - type: video
         title: Example - inertias of a solid cylinder
-        description: reading
+        description: video
         link: "https://youtu.be/Z5ugvTjmLys"
       - type: reading
         title: The radius of gyration
