@@ -13,7 +13,7 @@ contents:
         topics:
           - Work-Energy Theorem for RB
       - type: problem_set
-        title: Set 22 - Work-Energy Theorem for RB
+        title: Set 23 - Work-Energy Theorem for RB
         description: Work-Energy Theorem for RB
         link: "https://drive.google.com/file/d/1KpQ6sQ7p7xIcSjHCd8yObJM8xBF1IQub/view?usp=sharing"
       - type: exercise
