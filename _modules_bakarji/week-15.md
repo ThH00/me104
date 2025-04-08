@@ -1,14 +1,27 @@
-<!-- ---
-title: Week 15 - Final Review
+---
+title: Week 15 - Work-Energy Theorem for RB
 contents:
-  - date: 2024-04-22
+  - date: 2025-04-21
     items:
       - type: lecture
         topics:
-          - Final exam revision
-  - date: 2024-04-24
+          - No Class
+
+  - date: 2025-04-23
     items:
       - type: lecture
         topics:
-          - Final exam revision
----  -->
+          - Work-Energy Theorem for RB
+      - type: problem_set
+        title: Set 22 - Work-Energy Theorem for RB
+        description: Work-Energy Theorem for RB
+        link: "https://drive.google.com/file/d/1KpQ6sQ7p7xIcSjHCd8yObJM8xBF1IQub/view?usp=sharing"
+
+  - date: 2025-04-25
+    items:
+      - type: lecture
+        topics:
+          - Set 22 Exercises
+      - type: exercise
+
+---

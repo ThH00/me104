@@ -5,7 +5,8 @@ contents:
     items:
       - type: lecture
         topics:
-          - No Class
+          - Kinematics of Rigid Bodies
+          - Relative Motion on a Rigid Body
 
   - date: 2025-03-27
     items:
@@ -19,5 +20,5 @@ contents:
       - type: homework
         title: HW09 - Cylinder on Truck
         link: "https://drive.google.com/file/d/1LIo77ToWPTe0v-9TZAtbNtWj-qZ_2WuG/view?usp=sharing"
-        due_date: 2025-04-03
+        due_date: 2025-04-16
 ---
