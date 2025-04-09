@@ -7,7 +7,7 @@ contents:
         topics:
           - Impulse Momentum for RB
       - type: problem_set
-        title: Set 23 - Impulse Momentum for RB
+        title: Set 22 - Impulse Momentum for RB
         description: Impulse Momentum for RB
         link: "https://drive.google.com/file/d/1KllpcrDVxXPpmR3MhVBo8uygIOIQeLGb/view?usp=sharing"
 
@@ -15,7 +15,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Set 23 Exercises
+          - Set 22 Exercises
       - type: homework
         title: HW012 - Ice Skater Angular Momentum Conservation
         link: "###"
