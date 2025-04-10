@@ -17,6 +17,12 @@ contents:
       - type: lecture
         topics:
           - Cylindrical polar coordinates, cont.
+      - type: exercise_video
+        title: Problem 02-021
+        link: "https://youtu.be/wbUBexp8xfc"
+      - type: exercise_video
+        title: Problem 02-099
+        link: "https://youtu.be/Bt5neJj4Zhc"
       - type: exercise
 
   - date: 2025-01-31

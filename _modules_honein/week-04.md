@@ -21,6 +21,9 @@ contents:
         topics:
           - The Serret-Frenet Triad (Curvature of a plane curve)
       - type: lecture_video
+        title: DEMO - Serret-Frenet basis on bobsled
+        link: "https://youtu.be/0ACqRREH180"
+      - type: lecture_video
         title: A derivation of the Serret-Frenet formulae
         link: "https://youtu.be/OB13c0WlUSg"
       - type: exercise
@@ -31,6 +34,9 @@ contents:
         topics:
           - Quiz Sets 1-7
           - Relative motion between translating rigid bodies
+      - type: exercise_video
+        title: Problem 02-151
+        link: "https://youtu.be/Z8Un0esREyw"
       - type: problem_set
         title: Set 08 - Relative motion & Corotational Bases
         description: Relative motion between translating rigid bodies

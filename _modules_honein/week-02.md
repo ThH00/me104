@@ -30,6 +30,9 @@ contents:
         topics:
           - Particle Kinetics (BoLM and action-reaction)
           - Four steps to solving a problem using BoLM
+      - type: exercise_video
+        title: Problem 03-004
+        link: "https://youtu.be/LAl3ZUiUpus"
       - type: problem_set
         title: Set 04 - BoLM for a particle
         description: Balance of Linear Momentum (BoLM)

@@ -26,6 +26,12 @@ contents:
       - type: lecture_video
         title: Particle on a curve vs. particle on a surface
         link: "https://www.youtube.com/watch?v=XNdP7Nk850s"
+      - type: exercise_video
+        title: Problem 08-004
+        link: "https://youtu.be/YE9N2f2qTqg"
+      - type: exercise_video
+        title: Problem 03-071
+        link: "https://youtu.be/RDFfE0tFTnk"
       - type: problem_set
         title: Set 09 - Linear Springs
         link: "https://drive.google.com/file/d/1iBwfgG3gCtvfSjRzzXAN2MFYAQqQbVVB/view?usp=sharing"
