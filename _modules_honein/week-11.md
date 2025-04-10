@@ -37,35 +37,27 @@ contents:
           - Moment of Inertia, cont.
       - type: lecture_video
         title: Center of mass and linear momentum of a rigid body
-        # description: video
         link: "https://youtu.be/101EriK4HIQ"
       - type: lecture_video
         title: Angular momentum of a rigid body
-        description: video
         link: "https://youtu.be/BGa_d4LscWQ"
       - type: lecture_video
         title: Moments and products of inertia
-        description: video
         link: "https://youtu.be/BP1N9zFeY98"
       - type: lecture_video
         title: Example - inertias of a solid cylinder
-        description: video
         link: "https://youtu.be/Z5ugvTjmLys"
       - type: lecture_video
         title: The radius of gyration
-        description: video
         link: "https://youtube.com/shorts/pRxOpqpKq78"
       - type: lecture_video
         title: The parallel axis theorem
-        description: video
         link: "https://youtube.com/shorts/pRxOpqpKq78"
       - type: lecture_video
         title: Example - parallel axis theorem on a solid cylinder
-        description: video
         link: "https://youtu.be/8R_cF2e_9nU"
       - type: reading
         title: Notes pdf
-        description: reading
         link: "https://drive.google.com/file/d/1zuL3YSqawy5FtvICplTMBMHMxdpmpIBx/view?usp=sharing"
       - type: homework
         title: HW10 - Products of Inertia
