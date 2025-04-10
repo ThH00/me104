@@ -42,8 +42,13 @@
                 {% if item.title %}
                   <a href="{{ item.link }}">{{ item.title }}</a>
                 {% endif %}
-              {% when 'video' %}
-                <span class="label label-orange">VIDEO</span>
+              {% when 'exercise_video' %}
+                <span class="label label-pink">EXERCISE VIDEO</span>
+                {% if item.title %}
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endif %}
+              {% when 'lecture_video' %}
+                <span class="label label-orange">LECTURE VIDEO</span>
                 {% if item.title %}
                   <a href="{{ item.link }}">{{ item.title }}</a>
                 {% endif %}
