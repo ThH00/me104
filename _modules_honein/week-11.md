@@ -37,7 +37,7 @@ contents:
           - Moment of Inertia, cont.
       - type: lecture_video
         title: Center of mass and linear momentum of a rigid body
-        description: video
+        # description: video
         link: "https://youtu.be/101EriK4HIQ"
       - type: lecture_video
         title: Angular momentum of a rigid body
