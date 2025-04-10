@@ -27,5 +27,10 @@ contents:
         topics:
           - Conservation of energy
           - Examples from Set 11
+          - Gravitation force model
+      - type: lecture_video
+        title: Gravitation force model
+        link: "https://www.youtube.com/watch?v=nHnDuCWtacY"
+      
 ---
 

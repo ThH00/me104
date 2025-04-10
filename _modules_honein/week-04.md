@@ -20,6 +20,9 @@ contents:
       - type: lecture
         topics:
           - The Serret-Frenet Triad (Curvature of a plane curve)
+      - type: lecture_video
+        title: A derivation of the Serret-Frenet formulae
+        link: "https://youtu.be/OB13c0WlUSg"
       - type: exercise
 
   - date: 2025-02-07
