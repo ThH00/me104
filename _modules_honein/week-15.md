@@ -19,7 +19,6 @@ contents:
       - type: exercise_video
         title: Problem 06-118 Part 1
         link: "https://youtu.be/oOSbK5uyTww"
-        link: "https://youtu.be/DW40EHHgCbk"
       - type: exercise_video
         title: Problem 06-118 Part 2
         link: "https://youtu.be/DW40EHHgCbk"
