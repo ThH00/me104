@@ -25,6 +25,12 @@ contents:
         title: HW011 - Fixed Point Rotation
         link: "https://drive.google.com/file/d/1LIe8PWmmb8KWuMRMRZJdEzdauHFpOzb4/view?usp=sharing"
         due_date: 2025-04-14
+      - type: exercise_video
+        title: Problem 06-051 Part 1
+        link: "https://youtu.be/iQEG2_D207A"
+      - type: exercise_video
+        title: Problem 06-051 Part 2
+        link: "https://youtu.be/ah63r2FgXTI"
       - type: exercise
 
   - date: 2025-04-11
@@ -32,6 +38,15 @@ contents:
       - type: lecture
         topics:
           - General Plane Motion
+      - type: exercise_video
+        title: Problem 06-070 Part 1
+        link: "https://youtu.be/acDAeDBoAg4"
+      - type: exercise_video
+        title: Problem 06-070 Part 2
+        link: "https://youtube.com/shorts/b5tVpf2gdkw"
+      - type: exercise_video
+        title: Problem 06-155
+        link: "https://youtu.be/0N8tDgnrXNA"
       - type: problem_set
         title: Set 21 - General Plane Motion
         description: General Plane Motion
