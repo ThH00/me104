@@ -16,6 +16,12 @@ contents:
       - type: lecture
         topics:
           - Angular impulse and angular momentum
+      - type: lecture_video
+        title: Conservations - linear momentum vs angular momentum vs energy
+        link: "https://youtu.be/MEwpRoLB7KM"
+      - type: lecture_video
+        title: Work-Energy theorem  on simple pendulum
+        link: "https://youtu.be/bjpTKehJV7s"
       - type: exercise
 
   - date: 2025-02-28

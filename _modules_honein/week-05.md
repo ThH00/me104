@@ -14,29 +14,23 @@ contents:
         topics:
           - Spring force
           - Friction force
-      - type: video
+      - type: lecture_video
         title: Explaining spring force
-        description: video
         link: "https://www.youtube.com/watch?v=WtTDHW2JUVY"
-      - type: video
+      - type: lecture_video
         title: Spring force examples
-        description: video
         link: "https://www.youtube.com/watch?v=YiOZregJx9w"
-      - type: video
+      - type: lecture_video
         title: Explaining the friction force
-        description: video
         link: "https://www.youtube.com/watch?v=_fvCFtpL3c8"
-      - type: video
+      - type: lecture_video
         title: Particle on a curve vs. particle on a surface
-        description: video
         link: "https://www.youtube.com/watch?v=XNdP7Nk850s"
       - type: problem_set
         title: Set 09 - Linear Springs
-        description: Linear Springs
         link: "https://drive.google.com/file/d/1iBwfgG3gCtvfSjRzzXAN2MFYAQqQbVVB/view?usp=sharing"
       - type: problem_set
         title: Set 10 - Friction
-        description: Friction
         link: "https://drive.google.com/file/d/1iDJlfAWHS_9K6zz-71NLSkCnhiXW8KCN/view?usp=sharing"
       - type: exercise
 
