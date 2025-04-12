@@ -27,7 +27,7 @@ contents:
       - type: reading
         title: Moments of inertias of solid bodies
         description: reading
-        link: "https://drive.google.com/file/d/1VLehMmRLIX889I_guzD8KuBhcXcyWkW_/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1AdyqHoTfCFdX8s8bp5OYHVhsAA4WbgkX/view?usp=share_link"
       - type: exercise
 
   - date: 2025-03-28
