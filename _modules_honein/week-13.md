@@ -22,7 +22,7 @@ contents:
         description: Fixed Point Rotation
         link: "https://drive.google.com/file/d/1L16eGrvrWNQCYhchf-gQE6NI8b3lTFY6/view?usp=sharing"
       - type: homework
-        title: HW011 - Fixed Point Rotation
+        title: HW11 - Fixed Point Rotation
         link: "https://drive.google.com/file/d/1LIe8PWmmb8KWuMRMRZJdEzdauHFpOzb4/view?usp=sharing"
         due_date: 2025-04-14
       - type: exercise_video

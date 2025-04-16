@@ -17,7 +17,7 @@ contents:
         topics:
           - Set 22 Exercises
       - type: homework
-        title: HW012 - Ice Skater Angular Momentum Conservation
+        title: HW12 - Ice Skater Angular Momentum Conservation
         link: "https://drive.google.com/file/d/1RM4XdRQTKGljQVATng4AogyjSXAbw2jP/view?usp=sharing"
         due_date: 2025-04-23
       - type: exercise
