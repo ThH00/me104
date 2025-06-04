@@ -32,10 +32,8 @@ permalink: pretty
 nav:
   - title: Announcements
     url: /announcements/
-  - title: Calendar (Honein)
+  - title: Calendar
     url: /calendar-honein/
-  - title: Calendar (Bakarji)
-    url: /calendar-bakarji/
   - title: Resources
     url: /resources/
   - title: Schedule
@@ -46,16 +44,12 @@ nav:
 aux_links:
   Theresa Honein:
     - 'https://thh00.github.io'
-  Joseph Bakarji:
-    - 'https://www.josephbakarji.com'
 footer_content:
 
 # Collections for website data
 collections:
   staffers:
   modules_honein:
-    output: true
-  modules_bakarji:
     output: true
   schedules:
   announcements:
@@ -73,11 +67,6 @@ defaults:
   - scope:
       path: ''
       type: modules_honein
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: modules_bakarji
     values:
       layout: module
   - scope:
