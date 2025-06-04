@@ -9,9 +9,10 @@ Dear Students,
 We are looking forward to a smooth and productive semester!
 
 Kindly complete the following pre-semester checklist:
--  Complete the [Pre-semester survey](https://forms.office.com/r/rTf4vBsjDZ)
--  You have been invited to the class' Teams channel. For the best user experience, download the Teams app.
-- Read [these bits of advice](https://drive.google.com/file/d/1V-WsJTOG-jVP-Rmg3bJIOXwXUHOzCpyk/view?usp=sharing) from the students who took MECH230 last semester.
+- Read the syllabus.
+- Login to Ed discussion.
+- Login to gradescope.
+- Read [this advice](https://drive.google.com/file/d/1V-WsJTOG-jVP-Rmg3bJIOXwXUHOzCpyk/view?usp=sharing) from the students who took AUB's MECH230 in Fall 2024 and [this advice](https://drive.google.com/file/d/1WCcY9BbItUS-yxhUW9iOcwbvPE2n6ung/view?usp=sharing) from the students who took AUB's MECH230 in Spring 2025.
 
 Best Regards,<br>
-MECH230 Teaching Team
+ME104 Teaching Team

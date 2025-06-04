@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Resources
+title: Syllabus
 description: >-
     Course policies and information.
 ---
 
-# Resources
+# Syllabus
 {:.no_toc}
 
 ## Table of contents
