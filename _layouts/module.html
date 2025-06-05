@@ -20,6 +20,18 @@
                     </div>
                   {% endfor %}
                 {% endif %}
+              <!-- {% when 'exercise' %}
+                <span class="label label-yellow">EXERCISE SESSION</span> -->
+              {% when 'exercise' %}
+                <span class="label label-yellow">DISCUSSION SECTION</span>
+                {% if item.topics %}
+                  {% for topic in item.topics %}
+                    <div class="module-description">
+                      <span class="label label-yellow">{{ forloop.index }}.</span>
+                      {{ topic }}
+                    </div>
+                  {% endfor %}
+                {% endif %}
               {% when 'problem_set' %}
                 <span class="label label-green">PROBLEM SET</span>
                 {% if item.title %}
@@ -33,10 +45,15 @@
                 {% if item.due_date %}
                   (due {{ item.due_date | date: "%b %d" }})
                 {% endif %}
-              {% when 'exercise' %}
-                <span class="label label-yellow">EXERCISE SESSION</span>
               {% when 'exam' %}
-                <span class="label label-red">Exam</span>
+                <span class="label label-red">EXAM</span>
+              <!-- {% when 'quiz' %}
+                <span class="label label-red">QUIZ</span> -->
+              {% when 'quiz' %}
+                <span class="label label-red">QUIZ</span>
+                {% if item.title %}
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endif %}
               {% when 'reading' %}
                 <span class="label label-purple">READING</span>
                 {% if item.title %}
