@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calendar (Honein)
+title: Calendar
 nav_exclude: false 
 # nav_order: 2
 # parent: none
@@ -8,7 +8,7 @@ permalink: /calendar-honein/
 description: Listing of course modules and topics.
 ---
 
-# Calendar - Theresa Honein (Section 1 & 5)
+# Calendar - Theresa Honein
 
 {% for module in site.modules_honein %}
 {{ module }}
