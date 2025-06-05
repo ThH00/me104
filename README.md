@@ -12,9 +12,9 @@ seo:
 
 | Exam | Date | Location |
 | -- | -- | -- |
-| Exam 1 | Saturday March 1 at 8-10am | Nicely 500 |
-| Exam 2 | Saturday April 5 at 8-10am | Nicely 500 |
-| Final Exam | TBD between May 2-14 | TBD |
+| Midterm 1 | Tuesday July 1 at 10-11:30 am | Etcheverry 3113 |
+| Midterm 2 | Tuesday July 15 at 10-11:30am | Etcheverry 3113 |
+| Final Exam | Thursday June 12 at 10am-12pm | Etcheverry 3113 |
 
 # Previous Exams
 
