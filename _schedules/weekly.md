@@ -34,7 +34,7 @@ schedule:
         location: Etcheverry 6185
   - name: Wednesday
     events:
-      - name: Discussion
+      - name: discussion
         start: 10:00 AM
         end: 12:30 PM
         location: Etcheverry 3113
