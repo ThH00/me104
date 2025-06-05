@@ -92,31 +92,19 @@
       @extend .fs-2;
     }
 
-    &.lecture-sec-1 {
+    &.lecture {
       background-color: #2c84fa;
     }
 
-    &.exercise-session-sec-1 {
-      background-color: #2c84fa;
-    }
-
-    &.lecture-sec-2 {
+    &.discussion {
       background-color: #11b584;
-    }
-
-    &.exercise-session-sec-2 {
-      background-color: #11b584;
-    }
-
-    &.lecture-sec-5 {
-      background-color: #ed8453;
-    }
-
-    &.exercise-session-sec-5 {
-      background-color: #ed8453;
     }
 
     &.honein-office-hours {
+      background-color: #ed8453;
+    }
+
+    &.antimirova-office-hours {
       background-color: #f7d12e;
     }
   }

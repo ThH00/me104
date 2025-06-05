@@ -105,7 +105,5 @@ resources. You are allowed to discuss the homework with other students, but you 
 written work. You are not allowed to consult any solution manuals or websites/apps such as Chegg. Honor code violations will be
 punished.
 
-
-
 ## Active Learning
 Check out these two excellent videos of Professor Noel Perkins from the Univesity of Michigan at Ann Arbor explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.
