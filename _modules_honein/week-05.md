@@ -5,7 +5,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - !! No in-person lecture !!
+          - NO IN-PERSON LECTURE!
           - Linear impulse and linear momentum
           - Angular impulse and angular momentum
       - type: problem_set

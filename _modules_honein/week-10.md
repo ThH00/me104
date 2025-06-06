@@ -1,31 +1,27 @@
 ---
-title: Week 10 - Kinematics of Rigid Bodies
+title: Week 08
 contents:
-  - date: 2025-03-17
+  - date: 2025-08-12
     items:
       - type: lecture
         topics:
-          - Set 15 Exercises
+          - Review
+      - type: quiz
+        title: Quiz 15
+        description: Quiz 15
+        link: "??"
 
-  - date: 2025-03-19
+
+
+  - date: 2025-08-13
     items:
-      - type: lecture
-        topics:
-          - Instantaneous Center of Rotation
-      - type: problem_set
-        title: Set 16 - IC and Motion wrt RB
-        description: IC and Motion wrt RB
-        link: "https://drive.google.com/file/d/1KxXJttmcYcssLFuUNx7aSkQNUTeJJGMX/view?usp=sharing"
-      - type: homework
-        title: HW08 - RB Kinemtatics and IC
-        link: "https://drive.google.com/file/d/1LBPATOrpx-Rju3013d9Gb2FXSckZ6elr/view?usp=share_link"
-        due_date: 2025-03-26
       - type: exercise
+        topics:
+          - TBD
 
-  - date: 2025-03-21
+  - date: 2025-08-14
     items:
       - type: lecture
         topics:
-          - The motion of a point moving with respect to a RB
-      
+          - Final Exam - Focused on rigid bodies
 ---
