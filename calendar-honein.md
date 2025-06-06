@@ -4,12 +4,12 @@ title: Calendar
 nav_exclude: false 
 # nav_order: 2
 # parent: none
-permalink: /calendar-honein/
+permalink: /calendar/
 description: Listing of course modules and topics.
 ---
 
 # Calendar - Theresa Honein
 
-{% for module in site.modules_honein %}
+{% for module in site.modules %}
 {{ module }}
 {% endfor %}
