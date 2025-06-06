@@ -45,10 +45,10 @@ contents:
       - type: problem_set
         title: Set 04 - BoLM
         description: Vector Calculus
-        link: "??"
+        link: "https://drive.google.com/file/d/1F4QUVzsbl2mYeqmdno3JuVJw7d2dQsv8/view?usp=drivesdk"
       - type: homework
-        title: HW 01
-        link: "???"
+        title: HW 01 - Projectile with drag
+        link: "https://drive.google.com/file/d/1Yn84NqvpxOFfLHk5-UrZjdwFv6fIQ11F/view?usp=drivesdk"
         due_date: 2025-06-20
       - type: exercise_video
         title: Problem 03-004

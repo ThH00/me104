@@ -1,48 +1,39 @@
 ---
-title: Week 04 - The Serret-Frenet Triad
+title: Week 04
 contents:
-  - date: 2025-02-03
+  - date: 2025-07-01
     items:
       - type: lecture
         topics:
-          - The Serret-Frenet Triad
+          - Definitions of power, work and kinetic energy
+          - Deriving the work-energy theorem
+          - Conservation of energy
+          - Gravitation force model
       - type: problem_set
-        title: Set 07 - Serret Frenet Basis
-        description: The Serret-Frenet Triad (Kinematics and kinetics)
-        link: "https://drive.google.com/file/d/1fMLRTfZoZhxuJ0r2ytfXeKpjrPOrvM-M/view?usp=sharing"
-      - type: reading
-        title: See the animations in the Wikipedia page of the Serret-Frenet basis
-        description: reading
-        link: "https://en.wikipedia.org/wiki/Frenet–Serret_formulas"
+        title: Set 11 - Power, Work and Energy
+        description: Power, Work and Energy
+        link: "https://drive.google.com/file/d/1WB9MIlmOi6AQ2R5Perhf5mRFoWb9DuHB/view?usp=drivesdk"
+      - type: lecture_video
+        title: Gravitation force model
+        link: "https://www.youtube.com/watch?v=nHnDuCWtacY"
+      - type: quiz
+        title: Quiz 6
+        description: Quiz 6
+        link: "??"
 
-  - date: 2025-02-05
+  - date: 2025-07-02
     items:
-      - type: lecture
-        topics:
-          - The Serret-Frenet Triad (Curvature of a plane curve)
-      - type: lecture_video
-        title: DEMO - Serret-Frenet basis on bobsled
-        link: "https://youtu.be/0ACqRREH180"
-      - type: lecture_video
-        title: A derivation of the Serret-Frenet formulae
-        link: "https://youtu.be/OB13c0WlUSg"
       - type: exercise
+        topics:
+          - TBD
 
-  - date: 2025-02-07
+  - date: 2025-07-03
     items:
       - type: lecture
         topics:
-          - Quiz Sets 1-7
-          - Relative motion between translating rigid bodies
-      - type: exercise_video
-        title: Problem 02-151
-        link: "https://youtu.be/Z8Un0esREyw"
-      - type: problem_set
-        title: Set 08 - Relative motion & Corotational Bases
-        description: Relative motion between translating rigid bodies
-        link: "https://drive.google.com/file/d/1fMwDe103wkkm3KwCcHKJP1txolFj90jO/view?usp=sharing"
+          - MIDTERM I
       - type: homework
-        title: HW04
-        link: "https://drive.google.com/file/d/1fNloK0f5tM6yl33Wem3MbWB8gFHk-DO8/view?usp=sharing"
-        due_date: 2025-02-14
+        title: HW 04 - Energy plots for all previous homework
+        link: "???"
+        due_date: 2025-07-10
 ---

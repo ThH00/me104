@@ -50,6 +50,7 @@ question is. Ask yourself: am I referring to some lecture note/HW solution/discu
 If the answer is yes, post a screen shot of the relevant part.
 
 ## Grading
+
 | Item | Percentage |
 | ---- | ---------- |
 | In class quizzes | 24% |

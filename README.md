@@ -12,7 +12,7 @@ seo:
 
 | Exam | Date | Location |
 | -- | -- | -- |
-| Midterm 1 | Tuesday July 1 at 10-11:30 am | Etcheverry 3113 |
+| Midterm 1 | Thursday July 3 at 10-11:30 am | Etcheverry 3113 |
 | Midterm 2 | Tuesday July 15 at 10-11:30am | Etcheverry 3113 |
 | Final Exam | Thursday June 12 at 10am-12pm | Etcheverry 3113 |
 

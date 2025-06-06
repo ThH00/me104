@@ -26,16 +26,19 @@ contents:
         description: Quiz 3
         link: "??"
 
-  - date: 2025-06-11
+  - date: 2025-06-18
     items:
       - type: exercise
         topics:
-          - Problems from Set 02 - Units
-          - Problems from Set 03 - Rectlinear Motion
+          - TBD
 
-  - date: 2025-06-17
+  - date: 2025-06-19
     items:
       - type: lecture
         topics:
           - No Class
+      - type: homework
+        title: HW 02 - Spring pendulum
+        link: "???"
+        due_date: 2025-06-26
 ---
