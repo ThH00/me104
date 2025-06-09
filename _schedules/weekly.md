@@ -30,7 +30,7 @@ schedule:
         location: Etcheverry 3113
       - name: Honein Office Hours
         start: 1:30 PM
-        end: 3:00 PM
+        end: 2:30 PM
         location: Etcheverry 6185
   - name: Wednesday
     events:

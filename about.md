@@ -19,7 +19,7 @@ description: >-
 ## Instructor: Theresa Honein
 - Email: theresa_honein at berkeley.edu
 - Lecture: Tu 10:00 am - 12:29 pm and Th 10:00 am - 11:59 am in Etcheverry 3113
-- Office Hours: Tu 1:30-3:00 pm, Th 12:30-2:00 pm in Etcheverry 6185
+- Office Hours: Tu 1:30-2:30 pm, Th 12:30-2:00 pm in Etcheverry 6185 or by appointment
 
 ## Teaching Assistant: Ekaterina Aleksandrovna Antimirova
 - Email: ekatant23 at berkeley.edu
@@ -27,7 +27,7 @@ description: >-
 - Office Hours: TBD
 
 ## Ed Discussion
-For homework advice or conceptual questions, please use [Ed Discussion](???). Class group chats besides Piazza are not allowed. If you have non-conceptional or non-homework/exam related questions, please use email.
+For homework advice or conceptual questions, please use EdDiscussion. Class group chats besides Ed are not allowed. If you have non-conceptional or non-homework/exam related questions, please use email.
 
 Ed Discussion etiquette:
 1. Ask HW questions only in HW posts.\

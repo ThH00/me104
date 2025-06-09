@@ -6,6 +6,7 @@ contents:
       - type: lecture
         topics:
           - Overview of syllabus and website
+          - Introducing Dynamics
           - Vector calculus - a summary
           - Velocity, position, acceleration, arc-length and rectilinear motion
       - type: problem_set
@@ -24,6 +25,9 @@ contents:
         title: Read chapter 1 of Introduction to Solid Mechanics - An Integrated Approach by Lubliner and Papadopoulos.
         description: reading
         link: "https://link.springer.com/book/10.1007/978-1-4614-6768-7"
+      - type: lecture_video
+        title: Introduction to Dynamics by Dr. Joseph Bakarji
+        link: "https://www.youtube.com/watch?v=icrTzMozNgo"
       - type: quiz
         title: Quiz 1
         description: Quiz 1
