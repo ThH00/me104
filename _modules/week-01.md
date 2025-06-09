@@ -6,7 +6,7 @@ contents:
       - type: lecture
         topics:
           - Overview of syllabus and website
-          - Introducing Dynamics
+          - Dynamics - an overview
           - Vector calculus - a summary
           - Velocity, position, acceleration, arc-length and rectilinear motion
       - type: problem_set
