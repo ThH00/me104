@@ -22,6 +22,11 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+     - name: Ekaterina's Office Hours
+        start: 10 AM
+        end: 11:30 AM
+        location: Etcheverry 1165
   - name: Tuesday
     events:
       - name: Lecture
@@ -49,4 +54,9 @@ schedule:
         end: 2:00 PM
         location: Etcheverry 6185
   - name: Friday
+    events:
+     - name: Ekaterina's Office Hours
+        start: 10 AM
+        end: 11:30 AM
+        location: Etcheverry 1165
 ---
