@@ -23,8 +23,8 @@ timeline:
 schedule:
   - name: Monday
     events:
-     - name: Ekaterina's Office Hours
-        start: 10 AM
+     - name: Antimirova Office Hours
+        start: 10:00 AM
         end: 11:30 AM
         location: Etcheverry 1165
   - name: Tuesday
@@ -55,8 +55,8 @@ schedule:
         location: Etcheverry 6185
   - name: Friday
     events:
-     - name: Ekaterina's Office Hours
-        start: 10 AM
+      - name: Antimirova Office Hours
+        start: 10:00 AM
         end: 11:30 AM
         location: Etcheverry 1165
 ---
