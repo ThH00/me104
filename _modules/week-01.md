@@ -8,7 +8,7 @@ contents:
           - Overview of syllabus and website
           - Dynamics - an overview
           - Vector calculus - a summary
-          - Velocity, position, acceleration, arc-length and rectilinear motion
+          - Velocity, position, acceleration, arc-length
       - type: problem_set
         title: Set 01 - Vector Calculus
         description: Vector Calculus
@@ -17,10 +17,6 @@ contents:
         title: Set 02 - Units
         description: Units
         link: "https://drive.google.com/file/d/1r6q_qWjyLFCUdqdvwQcWk9trG4rHoF1C/view?usp=drivesdk"
-      - type: problem_set
-        title: Set 03 - Rectlinear Motion
-        description: Rectilinear Motion
-        link: "https://drive.google.com/file/d/12H8pfl29heDaTW-QhMXW7yPHwXGlMQyb/view?usp=drivesdk"
       - type: reading
         title: Read chapter 1 of Introduction to Solid Mechanics - An Integrated Approach by Lubliner and Papadopoulos.
         description: reading
@@ -44,8 +40,13 @@ contents:
     items:
       - type: lecture
         topics:
+          - Rectilinear Motion
           - Balance of Linear Momentum
           - Solving Differential Equations and Animations in Matlab
+      - type: problem_set
+        title: Set 03 - Rectlinear Motion
+        description: Rectilinear Motion
+        link: "https://drive.google.com/file/d/12H8pfl29heDaTW-QhMXW7yPHwXGlMQyb/view?usp=drivesdk"
       - type: problem_set
         title: Set 04 - BoLM
         description: Vector Calculus
