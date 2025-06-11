@@ -23,7 +23,7 @@ timeline:
 schedule:
   - name: Monday
     events:
-     - name: Antimirova Office Hours
+      - name: Antimirova Office Hours
         start: 10:00 AM
         end: 11:30 AM
         location: Etcheverry 1165
