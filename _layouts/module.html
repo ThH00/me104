@@ -31,17 +31,15 @@
                   {% endfor %}
                 {% endif %}
               {% when 'problem_set' %}
-                <div class="module-description">
-                  <span class="label label-green">PROBLEM SET</span>
-                  {% if item.title %}
-                    &nbsp;
-                    <a href="{{ item.link }}">{{ item.title }}</a>
-                    {% if item.solution_link %}
-                      ,&nbsp;
-                      <a href="{{ item.solution_link }}">Solution</a>
-                    {% endif %}
+                <span class="label label-green">PROBLEM SET</span>
+                {% if item.title %}
+                  &nbsp;
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                  {% if item.solution_link %}
+                    ,&nbsp;
+                    <a href="{{ item.solution_link }}">Solution</a>
                   {% endif %}
-                </div>
+                {% endif %}
               {% when 'homework' %}
                 <span class="label label-red">HOMEWORK</span>
                 {% if item.title %}
@@ -61,8 +59,6 @@
                     ,&nbsp;
                     <a href="{{ item.solution_link }}">Solution</a>
                   {% endif %}
-                {% endif %}
-                  </div>
                 {% endif %}
               {% when 'reading' %}
                 <span class="label label-purple">READING</span>
