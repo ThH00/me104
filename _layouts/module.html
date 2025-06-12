@@ -48,12 +48,13 @@
               {% when 'quiz' %}
                 <span class="label label-red">QUIZ</span>
                 {% if item.title %}
-                  <div class="module-description">
-                    <a href="{{ item.link }}">{{ item.title }}</a>
-                    {% if item.solution_link %}
-                      &nbsp;|&nbsp;
-                      <a href="{{ item.solution_link }}">Solution</a>
-                    {% endif %}
+                  &nbsp;
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                  {% if item.solution_link %}
+                    ,&nbsp;
+                    <a href="{{ item.solution_link }}">Solution</a>
+                  {% endif %}
+                {% endif %}
                   </div>
                 {% endif %}
               {% when 'reading' %}
