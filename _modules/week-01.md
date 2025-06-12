@@ -27,7 +27,8 @@ contents:
       - type: quiz
         title: Quiz 1
         description: Quiz 1
-        link: "??"
+        link: "https://drive.google.com/file/d/1Ja3--SXbGbXwp9ELbb0WPnhjJjETWmHK/view?usp=share_link"
+        link: "https://drive.google.com/file/d/1smciQBL2azdKz9Gl5okRA80f7bLLLH8H/view?usp=share_link"
 
   - date: 2025-06-11
     items:
