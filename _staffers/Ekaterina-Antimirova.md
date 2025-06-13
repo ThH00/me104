@@ -4,5 +4,5 @@ role: Teaching Assistant
 email: ekatant23@berkeley.edu
 photo: Ekaterina.jpeg
 meta:
-  Office Hours: See [schedule](https://mech230.github.io/schedule/).
+  Office Hours: See [schedule](https://thh00.github.io/me104/schedule/).
 ---
