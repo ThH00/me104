@@ -13,10 +13,12 @@ contents:
         title: Set 01 - Vector Calculus
         description: Vector Calculus
         link: "https://drive.google.com/file/d/1ETBITc8JdvdtBQaS2U5su6DyOIOmNKsi/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/13IL5Svxqon3HTOsPTS8voiaXiEv0oHo5/view?usp=sharing"
       - type: problem_set
         title: Set 02 - Units
         description: Units
         link: "https://drive.google.com/file/d/1r6q_qWjyLFCUdqdvwQcWk9trG4rHoF1C/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1QlGUvf4yFsTeQ23hg9sclKrxT2aviEQa/view?usp=sharing"
       - type: reading
         title: Read chapter 1 of Introduction to Solid Mechanics - An Integrated Approach by Lubliner and Papadopoulos.
         description: reading
