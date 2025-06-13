@@ -24,7 +24,7 @@ description: >-
 ## Teaching Assistant: Ekaterina Aleksandrovna Antimirova
 - Email: ekatant23 at berkeley.edu
 - Discussion: We 10:00 am - 12:29 pm in Etcheverry 3113
-- Office Hours: TBD
+- Office Hours: M/F 10:00 am - 11:29 am in Etcheverry 1165
 
 ## Ed Discussion
 For homework advice or conceptual questions, please use EdDiscussion. Class group chats besides Ed are not allowed. If you have non-conceptional or non-homework/exam related questions, please use email.
