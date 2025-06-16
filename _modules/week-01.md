@@ -55,6 +55,7 @@ contents:
         title: Set 04 - BoLM
         description: Vector Calculus
         link: "https://drive.google.com/file/d/1F4QUVzsbl2mYeqmdno3JuVJw7d2dQsv8/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1AbkExTXSeqhBSS_81YB_MVPfvXlPGjbM/view?usp=sharing"
       - type: homework
         title: HW 01 - Projectile with drag
         link: "https://drive.google.com/file/d/1Yn84NqvpxOFfLHk5-UrZjdwFv6fIQ11F/view?usp=drivesdk"
@@ -72,4 +73,5 @@ contents:
         title: Quiz 2
         description: Quiz 2
         link: "https://drive.google.com/file/d/1KFi2hcIaglfPOpEJD4M_AYzh8eaVKY9b/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1AWLlpnF-YEiz4r_ZY2wnDtj9nCCZdk51/view?usp=sharing"
 ---
