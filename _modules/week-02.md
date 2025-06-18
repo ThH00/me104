@@ -33,8 +33,11 @@ contents:
     items:
       - type: exercise
         topics:
-          - Pulleys and motion within slots
-          - Extra 2 problems posted below
+          - Pulleys 
+          - Motion within slots
+          - Choosing coordinate system
+      - type: problem_set
+        title: Two extra problems on pulleys (covered in class) and straight slots
         link: "https://drive.google.com/file/d/1Azb_pXk7EQvngUNUb_xS6gER8KWlwaeW/view?usp=sharing"
 
   - date: 2025-06-19
