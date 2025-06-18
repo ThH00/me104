@@ -11,10 +11,12 @@ contents:
         title: Set 05 - Cylindrical Polar Coordinates
         description: Cylindrical Polar Coordinates
         link: "https://drive.google.com/file/d/1gchIpD7picaBbfA8YwRixHLdtHtHeM0m/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1AvOBsngeI1awPNdgsayvRjYxKiYv2IR0/view?usp=sharing"
       - type: problem_set
         title: Set 06 - Constrained Motion
         description: Constrained Motion
         link: "https://drive.google.com/file/d/1sKtW-Kc42Lx-TR4QDQ5RgpxcQhGDDRXz/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1B-0Ofgyj6cBg2lzTAnhPKwr0GpohxjA4/view?usp=sharing"
       - type: exercise_video
         title: Problem 02-021
         link: "https://youtu.be/wbUBexp8xfc"
@@ -24,13 +26,16 @@ contents:
       - type: quiz
         title: Quiz 3
         description: Quiz 3
-        link: "??"
+        link: "https://drive.google.com/file/d/1nIqeeJAukaGlO6Vx1b_mC5rOSkngak6o/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1QGUGLkEXxAST1_js1yjJm5hiHOmcnOGe/view?usp=sharing"
 
   - date: 2025-06-18
     items:
       - type: exercise
         topics:
-          - TBD
+          - Pulleys and motion within slots
+          - Extra 2 problems posted below
+        link: "https://drive.google.com/file/d/1Azb_pXk7EQvngUNUb_xS6gER8KWlwaeW/view?usp=sharing"
 
   - date: 2025-06-19
     items:
