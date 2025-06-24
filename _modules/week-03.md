@@ -11,6 +11,10 @@ contents:
         title: Set 07 - Serret Frenet Basis
         description: The Serret-Frenet Triad (Kinematics and kinetics)
         link: "https://drive.google.com/file/d/1iOeubRqbTVT4-f2UfLvGpaTstqDTWOOK/view?usp=drivesdk"
+      - type: problem_set
+        title: Set 08 - Relative motion & Corotational Bases
+        description: Relative motion between translating rigid bodies
+        link: "https://drive.google.com/file/d/15SJS064FwSMpkfMLjZYIYxMUW1tPyOWy/view?usp=drivesdk"
       - type: reading
         title: See the animations in the Wikipedia page of the Serret-Frenet basis
         description: reading
@@ -18,6 +22,12 @@ contents:
       - type: lecture_video
         title: DEMO - Serret-Frenet basis on bobsled
         link: "https://youtu.be/0ACqRREH180"
+      - type: lecture_video
+        title: DEMO - Serret-Frenet basis and osculating circle on 3D curve by Troy Henderson
+        link: "https://www.youtube.com/shorts/NyphZOJggFk"
+      - type: lecture_video
+        title: DEMO - check out the animations on the MECH230 Youtube channel
+        link: "https://www.youtube.com/@mech230demos"
       - type: lecture_video
         title: A derivation of the Serret-Frenet formulae
         link: "https://youtu.be/OB13c0WlUSg"
@@ -30,20 +40,15 @@ contents:
     items:
       - type: exercise
         topics:
-          - TBD
+          - Relative motion between translating rigid bodies
 
   - date: 2025-06-26
     items:
       - type: lecture
         topics:
-          - Relative motion between translating rigid bodies
           - Spring force
           - Friction
           - A particle moving on a curve vs. a particle moving on a surface
-      - type: problem_set
-        title: Set 08 - Relative motion & Corotational Bases
-        description: Relative motion between translating rigid bodies
-        link: "https://drive.google.com/file/d/15SJS064FwSMpkfMLjZYIYxMUW1tPyOWy/view?usp=drivesdk"
       - type: problem_set
         title: Set 09 - Linear Springs
         link: "https://drive.google.com/file/d/1zcm9KN42Fokud1WwjCEeEt4B-KT5stpI/view?usp=drivesdk"
