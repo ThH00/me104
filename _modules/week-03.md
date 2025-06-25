@@ -19,14 +19,14 @@ contents:
         title: See the animations in the Wikipedia page of the Serret-Frenet basis
         description: reading
         link: "https://en.wikipedia.org/wiki/Frenet–Serret_formulas"
-      - type: lecture_video
-        title: DEMO - Serret-Frenet basis on bobsled
+      - type: demo
+        title: Serret-Frenet basis on bobsled
         link: "https://youtu.be/0ACqRREH180"
-      - type: lecture_video
-        title: DEMO - Serret-Frenet basis and osculating circle on 3D curve by Troy Henderson
+      - type: demo
+        title: Serret-Frenet basis and osculating circle on 3D curve by Troy Henderson
         link: "https://www.youtube.com/shorts/NyphZOJggFk"
       - type: demo
-        title: DEMO - check out the animations on the MECH230 Youtube channel
+        title: Check out the animations on the MECH230 Youtube channel
         link: "https://www.youtube.com/@mech230demos"
       - type: lecture_video
         title: A derivation of the Serret-Frenet formulae
