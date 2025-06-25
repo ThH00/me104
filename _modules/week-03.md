@@ -25,7 +25,7 @@ contents:
       - type: lecture_video
         title: DEMO - Serret-Frenet basis and osculating circle on 3D curve by Troy Henderson
         link: "https://www.youtube.com/shorts/NyphZOJggFk"
-      - type: lecture_video
+      - type: demo
         title: DEMO - check out the animations on the MECH230 Youtube channel
         link: "https://www.youtube.com/@mech230demos"
       - type: lecture_video
@@ -34,7 +34,7 @@ contents:
       - type: quiz
         title: Quiz 4
         description: Quiz 4
-        link: "??"
+        link: "https://drive.google.com/file/d/1lrdG5aq0CPB20apmdMRpqcBzMDbk13CW/view?usp=share_link"
 
   - date: 2025-06-25
     items:

@@ -75,6 +75,11 @@
                 {% if item.title %}
                   <a href="{{ item.link }}">{{ item.title }}</a>
                 {% endif %}
+              {% when 'demo' %}
+                <span class="label label-cyan">DEMO</span>
+                {% if item.title %}
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endif %}
             {% endcase %}
           </div>
         {% endfor %}
