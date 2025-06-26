@@ -31,6 +31,9 @@ contents:
       - type: lecture_video
         title: A derivation of the Serret-Frenet formulae
         link: "https://youtu.be/OB13c0WlUSg"
+      - type: exercise_video
+        title: Problem 02-151
+        link: "https://youtu.be/Z8Un0esREyw"
       - type: quiz
         title: Quiz 4
         description: Quiz 4
@@ -67,9 +70,6 @@ contents:
       - type: lecture_video
         title: Particle on a curve vs. particle on a surface
         link: "https://www.youtube.com/watch?v=XNdP7Nk850s"
-      - type: exercise_video
-        title: Problem 02-151
-        link: "https://youtu.be/Z8Un0esREyw"
       - type: exercise_video
         title: Problem 08-004
         link: "https://youtu.be/YE9N2f2qTqg"
