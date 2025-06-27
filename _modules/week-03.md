@@ -85,6 +85,7 @@ contents:
         title: Quiz 5
         description: Quiz 5
         link: "https://drive.google.com/file/d/1heEY38NktknE03EL7KXidQqaBeqfXaVj/view?usp=share_link"
+        solution_link: "https://drive.google.com/file/d/1C8G4IATcz3jhTaj6i_uhrhpETEZp0RnY/view?usp=sharing"
       - type: homework
         title: HW 03 - Particles on helix
         link: "https://drive.google.com/file/d/1AvefEuP7eYljS4oICjGSQNzPmrZSSOdd/view?usp=share_link"
