@@ -59,6 +59,7 @@ contents:
       - type: homework
         title: HW 01 - Projectile with drag
         link: "https://drive.google.com/file/d/1Yn84NqvpxOFfLHk5-UrZjdwFv6fIQ11F/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1JJsYHJWGuDz6H87qZjTKW3Mh9t60hUg_/view?usp=sharing"
         due_date: 2025-06-20
       - type: exercise_video
         title: Problem 03-004
