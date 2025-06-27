@@ -11,10 +11,12 @@ contents:
         title: Set 07 - Serret Frenet Basis
         description: The Serret-Frenet Triad (Kinematics and kinetics)
         link: "https://drive.google.com/file/d/1iOeubRqbTVT4-f2UfLvGpaTstqDTWOOK/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1BWNMxQHfVaLUNzRl8FeL_tBdh-oRRylH/view?usp=sharing" 
       - type: problem_set
         title: Set 08 - Relative motion & Corotational Bases
         description: Relative motion between translating rigid bodies
         link: "https://drive.google.com/file/d/15SJS064FwSMpkfMLjZYIYxMUW1tPyOWy/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1BlCAiCX7dlsRmCrrkPLRZvsnO6j08q93/view?usp=sharing"
       - type: reading
         title: See the animations in the Wikipedia page of the Serret-Frenet basis
         description: reading
@@ -44,6 +46,9 @@ contents:
       - type: exercise
         topics:
           - Relative motion between translating rigid bodies
+      - type: problem_set
+        title: Extra problems
+        link: "https://drive.google.com/file/d/1cqCmfA4vL1MBHZiMzwvJRSov3JMWXm2w/view?usp=sharing"
 
   - date: 2025-06-26
     items:
