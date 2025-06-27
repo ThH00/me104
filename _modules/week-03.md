@@ -40,6 +40,7 @@ contents:
         title: Quiz 4
         description: Quiz 4
         link: "https://drive.google.com/file/d/1lrdG5aq0CPB20apmdMRpqcBzMDbk13CW/view?usp=share_link"
+        solution_link: "https://drive.google.com/file/d/1BaiVX8CzEBAW22vnRDqw9VFTKdG0D_8y/view?usp=sharing"
 
   - date: 2025-06-25
     items:
