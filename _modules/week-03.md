@@ -61,6 +61,7 @@ contents:
       - type: problem_set
         title: Set 09 - Linear Springs
         link: "https://drive.google.com/file/d/1zcm9KN42Fokud1WwjCEeEt4B-KT5stpI/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1CJ9rMCZ5_6RHZvypBIinyAXn2I0TJSfO/view?usp=sharing"
       - type: problem_set
         title: Set 10 - Friction
         link: "https://drive.google.com/file/d/1BsacnK5BUjR_4CQXt7pW7BM2vrtYed5p/view?usp=drivesdk"
