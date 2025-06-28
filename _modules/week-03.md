@@ -16,7 +16,7 @@ contents:
         title: Set 08 - Relative motion & Corotational Bases
         description: Relative motion between translating rigid bodies
         link: "https://drive.google.com/file/d/15SJS064FwSMpkfMLjZYIYxMUW1tPyOWy/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1BlCAiCX7dlsRmCrrkPLRZvsnO6j08q93/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1CD624Y6kPWnXyUDjoYkfrbjHAw5CjGUl/view?usp=sharing"
       - type: reading
         title: See the animations in the Wikipedia page of the Serret-Frenet basis
         description: reading
