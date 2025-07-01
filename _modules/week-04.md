@@ -19,7 +19,8 @@ contents:
       - type: quiz
         title: Quiz 6
         description: Quiz 6
-        link: "??"
+        link: "https://drive.google.com/file/d/1PZEX9VVzDaWu4Y9IKYSsAz_bAPdlIQ3m/view?usp=share_link"
+        solution_link: "https://drive.google.com/file/d/1rFc41UkshCabb6pkUBrHpWROBG4sHV5g/view?usp=share_link"
 
   - date: 2025-07-02
     items:
