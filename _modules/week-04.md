@@ -26,7 +26,11 @@ contents:
     items:
       - type: exercise
         topics:
-          - TBD
+          - Prep for Midterm 1, normal tangential, friction, springs
+      - type: problem_set
+        title: Extra problems
+        link: "https://drive.google.com/file/d/1WaipiMmWddWer_DrAZcLhzDUnNOMbbq6/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1C_fikstDKjVZwX6BM0Y8Xf_ftwCiu4W7/view?usp=sharing"
 
   - date: 2025-07-03
     items:
