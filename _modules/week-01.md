@@ -50,7 +50,7 @@ contents:
         title: Set 03 - Rectlinear Motion
         description: Rectilinear Motion
         link: "https://drive.google.com/file/d/12H8pfl29heDaTW-QhMXW7yPHwXGlMQyb/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1lAzttCtSNqtgLXYkKQEim2wUkY5hGUb4/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1ANIlcNtaWjBVxjcYPhIdw5EJq4IqM851/view?usp=sharing"
       - type: problem_set
         title: Set 04 - BoLM
         description: Vector Calculus
