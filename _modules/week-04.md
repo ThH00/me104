@@ -21,6 +21,10 @@ contents:
         description: Quiz 6
         link: "https://drive.google.com/file/d/1PZEX9VVzDaWu4Y9IKYSsAz_bAPdlIQ3m/view?usp=share_link"
         solution_link: "https://drive.google.com/file/d/1rFc41UkshCabb6pkUBrHpWROBG4sHV5g/view?usp=share_link"
+      - type: reading
+        title: Conservative forces and their potential
+        description: reading
+        link: "https://drive.google.com/file/d/1ZkdqsPzFe2r-aTFFd1BEd3b8L2MqyxHh/view?usp=share_link"
 
   - date: 2025-07-02
     items:
