@@ -48,7 +48,7 @@ contents:
         title: Set 14 - System of particles
         description: System of particles
         link: "https://drive.google.com/file/d/10UP8-vFO3O7hn9SAsMbdamq7XpcNgILw/view?usp=drivesdk"
-        solution_link: "??"
+        solution_link: "https://drive.google.com/file/d/1D4UUM7nXvnSJtFTS7EvNb4c44McrUA6z/view?usp=sharing"
       - type: quiz
         title: Quiz 8
         description: Quiz 8
