@@ -55,8 +55,8 @@ contents:
         description: RB Translation
         link: "https://drive.google.com/file/d/1F-MeHorwTKtKI9ve2Uu4VWNxyBTFdleE/view?usp=drivesdk"
       - type: quiz
-        title: Quiz 10
-        description: Quiz 10
+        title: Quiz 11
+        description: Quiz 11
         link: "??"
       - type: homework
         title: HW 07 - TBD
