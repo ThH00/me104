@@ -11,8 +11,8 @@ contents:
         description: Impulse Momentum for RB
         link: "https://drive.google.com/file/d/116_8ptZ6PmlEzuNu7fXu4ORFZznopqk4/view?usp=drivesdk"
       - type: quiz
-        title: Quiz 13
-        description: Quiz 13
+        title: Quiz 14
+        description: Quiz 14
         link: "??"
 
 
@@ -48,8 +48,8 @@ contents:
         title: Problem 06-118
         link: "https://youtu.be/-jdslhyHAIY"
       - type: quiz
-        title: Quiz 14
-        description: Quiz 14
+        title: Quiz 15
+        description: Quiz 15
         link: "??"
       - type: homework
         title: HW 09 - TBD
