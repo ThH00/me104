@@ -30,7 +30,10 @@ contents:
         link: "https://youtu.be/ugj4fefUN4c"
       - type: lecture_video
         title: 4. (15 min) 03/161
-        link: "https://youtu.be/Q-F7ew3jFuQ" 
+        link: "https://youtu.be/Q-F7ew3jFuQ"
+      - type: lecture_video
+        title: 5. (05 min) Review: calculating the moment of a force
+        link: "https://youtu.be/qiFdls4aFsw" 
   - date: 2025-07-09
     items:
       - type: problem_set
