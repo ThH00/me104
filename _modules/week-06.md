@@ -17,8 +17,8 @@ contents:
         description: IC and Motion wrt RB
         link: "https://drive.google.com/file/d/1HVbTJD8fqiG_8RTUu4BO4BnaaIzT8-1f/view?usp=drivesdk"
       - type: quiz
-        title: Quiz 8
-        description: Quiz 8
+        title: Quiz 9
+        description: Quiz 9
         link: "??"
 
 
@@ -39,8 +39,8 @@ contents:
         description: Rolling and Sliding
         link: "https://drive.google.com/file/d/1TG-p-p5oe03MGBDSplyQve9iaqZs85_e/view?usp=drivesdk"
       - type: quiz
-        title: Quiz 9
-        description: Quiz 9
+        title: Quiz 10
+        description: Quiz 10
         link: "??"
       - type: homework
         title: HW 06 - Crank slider animation and IC
