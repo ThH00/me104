@@ -14,8 +14,8 @@ contents:
         title: Problem 06-051
         link: "https://youtu.be/Q7PV2pxBuwc"
       - type: quiz
-        title: Quiz 11
-        description: Quiz 11
+        title: Quiz 12
+        description: Quiz 12
         link: "??"
 
 
@@ -42,8 +42,8 @@ contents:
         description: General Plane Motion
         link: "https://drive.google.com/file/d/1ayuli5QSUEAV-2kXjVYugwh5gOjm66tS/view?usp=drivesdk"
       - type: quiz
-        title: Quiz 12
-        description: Quiz 12
+        title: Quiz 13
+        description: Quiz 13
         link: "??"
       - type: homework
         title: HW 08 - TBD
