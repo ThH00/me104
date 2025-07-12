@@ -24,7 +24,16 @@ contents:
         link: "https://youtu.be/-AHQOYy3VBk"
       - type: lecture_video
         title: 2. (06 min) Conservation of linear momentum along a fixed direction
-        link: "https://youtu.be/_3a0CbiLJ18"       
+        link: "https://youtu.be/_3a0CbiLJ18"
+      - type: lecture_video
+        title: 3. (15 min) 03/159
+        link: "https://youtu.be/ugj4fefUN4c"
+      - type: lecture_video
+        title: 4. (15 min) 03/161
+        link: "https://youtu.be/Q-F7ew3jFuQ"
+      - type: lecture_video
+        title: 5. (05 min) Review: calculating the moment of a force
+        link: "https://youtu.be/qiFdls4aFsw" 
   - date: 2025-07-09
     items:
       - type: problem_set
