@@ -52,8 +52,8 @@ contents:
       - type: quiz
         title: Quiz 8
         description: Quiz 8
-        link: "??"
-        solution_link: "??"
+        link: "https://drive.google.com/file/d/13FUUqvWx33IMZhJkMmsKBSMkaDVGky4U/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1JN4GXoADfo_000ErF4yNAQ1gRl5Y-CSQ/view?usp=sharing"
       - type: homework
         title: HW 05 - colliding particles
         link: "???"
