@@ -24,40 +24,7 @@ contents:
         link: "https://youtu.be/-AHQOYy3VBk"
       - type: lecture_video
         title: 2. (06 min) Conservation of linear momentum along a fixed direction
-        link: "https://youtu.be/_3a0CbiLJ18"
-      - type: lecture_video
-        title: 3. (15 min) 03/159
-        link: "https://youtu.be/ugj4fefUN4c"
-      - type: lecture_video
-        title: 4. (15 min) 03/161
-        link: "https://youtu.be/Q-F7ew3jFuQ"
-      - type: lecture_video
-        title: 5. (05 min) Review: calculating the moment of a force
-        link: "https://youtu.be/qiFdls4aFsw"
-      - type: lecture_video
-        title: 6. (02 min) Angular momentum definition
-        link: "https://youtu.be/RohK7Sk-pCg"
-      - type: lecture_video
-        title: 7. (04 min) Balance of angular momentum
-        link: "https://youtu.be/5oHdJJfxGvk"
-      - type: lecture_video
-        title: 8. (05 min) Conservation of angular momentum
-        link: "https://youtu.be/9TFLI5Tjiv8"
-      - type: lecture_video
-        title: 9. (04 min) 03/185
-        link: "https://youtu.be/V3ussTTlrs8"
-      - type: lecture_video
-        title: 10. (10 min) Conservations: linear momentum vs. angular momentum vs. energy
-        link: "https://www.youtube.com/watch?v=MEwpRoLB7KM"
-      - type: lecture_video
-        title: 11. (3 min) Work-Energy theorem on simple pendulum
-        link: "https://www.youtube.com/watch?v=bjpTKehJV7s"
-      - type: lecture_video
-        title: 12. (25 min) Collisions
-        link: "https://youtu.be/0GcIPJgpwN4"
-      - type: lecture_video
-        title: 13. (6 min) Two particles impacting in the plane
-        link: "https://youtu.be/4zI-bUmKLKI"         
+        link: "https://youtu.be/_3a0CbiLJ18"       
   - date: 2025-07-09
     items:
       - type: problem_set
