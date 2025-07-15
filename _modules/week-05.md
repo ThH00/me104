@@ -25,10 +25,10 @@ contents:
       - type: lecture_video
         title: 2. (06 min) Conservation of linear momentum along a fixed direction
         link: "https://youtu.be/_3a0CbiLJ18"
-      - type: lecture_video
+      - type: solution_video
         title: 3. (15 min) 03/159
         link: "https://youtu.be/ugj4fefUN4c"
-      - type: lecture_video
+      - type: solution_video
         title: 4. (15 min) 03/161
         link: "https://youtu.be/Q-F7ew3jFuQ"
       - type: lecture_video
@@ -43,7 +43,7 @@ contents:
       - type: lecture_video
         title: 8. (05 min) Conservation of angular momentum
         link: "https://youtu.be/9TFLI5Tjiv8"
-      - type: lecture_video
+      - type: solution_video
         title: 9. (04 min) 03/185
         link: "https://youtu.be/V3ussTTlrs8"
       - type: lecture_video
