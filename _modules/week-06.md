@@ -43,8 +43,9 @@ contents:
         description: Energy, collisions, cons. of angular and linear mtm., RBK
         link: "https://drive.google.com/file/d/1jThS9W5IblEJ7ZUv_HYWMLDy4OIsZvGd/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1HPrYf9rktofdmevKTM6vNjDUhawR9Gww/view?usp=sharing"
-      - type:   
-
+      - type: lecture_video
+        title: Discussion 06 Recording Canvas Link
+        link: "??"
   - date: 2025-07-17
     items:
       - type: lecture
