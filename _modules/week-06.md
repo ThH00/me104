@@ -21,9 +21,15 @@ contents:
         description: reading
         link: "https://drive.google.com/file/d/1rt5DSxVMmZnwdI5kQO6EvpRmijnrSQ94/view?usp=sharing"
       - type: quiz
-        title: Quiz 9
-        description: Quiz 9
-        link: "??"
+        title: Quiz 9.1 Tensor Product
+        description: Quiz 9.1 Tensor Product
+        link: "https://drive.google.com/file/d/1jwsi7gXtYCzOXhGz4kqrt6WatFXxrodq/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1rK_ihsNoITPUDhwNs016NTsg-spxAEPv/view?usp=sharing"
+      - type: quiz
+        title: Quiz 9.2 Velocity Analysis
+        description: Quiz 9.2 Velocity Analysis
+        link: "https://drive.google.com/file/d/13oyGQyuPS6wZOfZl05Mfq8IuEDxu6xZL/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1ypiwcQYJjEO4eUdlv0UcMNg3vebyR-oq/view?usp=sharing"
 
   - date: 2025-07-16
     items:
