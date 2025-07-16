@@ -12,10 +12,12 @@ contents:
         title: Set 15 - Kinematics of Rigid Bodies
         description: Kinematics of Rigid Bodies
         link: "https://drive.google.com/file/d/1ly3MSTed2wXnHuEySQlLuawF8KSgCQap/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1DYtGU7qQpwb_kMelhRqc25XkwvtMbYQV/view?usp=sharing"
       - type: problem_set
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
         link: "https://drive.google.com/file/d/1HVbTJD8fqiG_8RTUu4BO4BnaaIzT8-1f/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1DT7o3JM29v_CRzUxBSlhVtdLj_6JfjxN/view?usp=sharing"
       - type: reading
         title: Lecture notes on rigid body kinematics
         description: reading
@@ -40,7 +42,8 @@ contents:
         title: Discussion 06 Notes and Extra Problems for Midterm II
         description: Energy, collisions, cons. of angular and linear mtm., RBK
         link: "https://drive.google.com/file/d/1jThS9W5IblEJ7ZUv_HYWMLDy4OIsZvGd/view?usp=sharing"
-        solution_link: "??"
+        solution_link: "https://drive.google.com/file/d/1HPrYf9rktofdmevKTM6vNjDUhawR9Gww/view?usp=sharing"
+      - type:   
 
   - date: 2025-07-17
     items:
