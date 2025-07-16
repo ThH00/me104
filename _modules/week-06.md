@@ -26,7 +26,12 @@ contents:
     items:
       - type: exercise
         topics:
-          - TBD
+          - Midterm II preparation - Energy, collisions, conservation of angular and linear momentum, rigid body kinematics
+      - type: problem_set
+        title: Discussion 06 Notes and Extra Problems for Midterm II
+        description: Energy, collisions, cons. of angular and linear mtm., RBK
+        link: "https://drive.google.com/file/d/1jThS9W5IblEJ7ZUv_HYWMLDy4OIsZvGd/view?usp=sharing"
+        solution_link: "??"
 
   - date: 2025-07-17
     items:
