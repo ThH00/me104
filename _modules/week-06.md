@@ -16,11 +16,14 @@ contents:
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
         link: "https://drive.google.com/file/d/1HVbTJD8fqiG_8RTUu4BO4BnaaIzT8-1f/view?usp=drivesdk"
+      - type: reading
+        title: Lecture notes on rigid body kinematics
+        description: reading
+        link: "https://drive.google.com/file/d/1rt5DSxVMmZnwdI5kQO6EvpRmijnrSQ94/view?usp=sharing"
       - type: quiz
         title: Quiz 9
         description: Quiz 9
         link: "??"
-
 
   - date: 2025-07-16
     items:
