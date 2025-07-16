@@ -45,7 +45,7 @@ contents:
         solution_link: "https://drive.google.com/file/d/1HPrYf9rktofdmevKTM6vNjDUhawR9Gww/view?usp=sharing"
       - type: lecture_video
         title: Discussion 06 Recording Canvas Link
-        link: "??"
+        link: "https://bcourses.berkeley.edu/courses/1545207/external_tools/90481"
   - date: 2025-07-17
     items:
       - type: lecture
