@@ -56,6 +56,9 @@ contents:
         title: Set 17 - Rolling and Sliding
         description: Rolling and Sliding
         link: "https://drive.google.com/file/d/1TG-p-p5oe03MGBDSplyQve9iaqZs85_e/view?usp=drivesdk"
+      - type: demo
+        title: IC of crank slider
+        link: "https://drive.google.com/file/d/1L8b1ugg4xQuPK5m5tOVo0bzk16HRia5a/view?usp=sharing"
       - type: quiz
         title: Quiz 10
         description: Quiz 10
