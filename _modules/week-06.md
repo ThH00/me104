@@ -65,7 +65,7 @@ contents:
         link: "https://drive.google.com/file/d/11Y_pN1rvoL38-ozrkifgvyF-GFE2KXRe/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1dxKkzFiD3zJXxr31iCbWPzcGXMX0Lu-9/view?usp=sharing"
       - type: homework
-        title: HW 06 - Crank slider animation and IC
-        link: "???"
+        title: HW 06 - Merry-go-round animation
+        link: "https://drive.google.com/file/d/1s9X3Y3I_NPuiQH3XcDvSxXy0Coz9YLKB/view?usp=share_link"
         due_date: 2025-07-23
 ---
