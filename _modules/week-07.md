@@ -46,7 +46,12 @@ contents:
     items:
       - type: exercise
         topics:
-          - TBD
+          - Rolling, slipping
+          - Relative motion of particles with respect to a rigid body
+      - type: problem_set
+        title: Discussion 7 Problems + Useful Reference Sheet on Rigid Body Dynamics
+        link: "https://drive.google.com/file/d/1r4mcrdex59m3rWJWjxhK85bionFg1IKr/view?usp=sharing"
+        solution_link: ""
 
   - date: 2025-07-24
     items:
