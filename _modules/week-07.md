@@ -51,7 +51,7 @@ contents:
       - type: problem_set
         title: Discussion 7 Problems + Useful Reference Sheet on Rigid Body Dynamics
         link: "https://drive.google.com/file/d/1r4mcrdex59m3rWJWjxhK85bionFg1IKr/view?usp=sharing"
-        solution_link: ""
+        solution_link: "https://drive.google.com/file/d/111vE5wwDvnPegxHbWRJUp16KfyCxrH3G/view?usp=sharing"
 
   - date: 2025-07-24
     items:
