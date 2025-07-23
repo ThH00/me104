@@ -52,6 +52,9 @@ contents:
         title: Discussion 7 Problems + Useful Reference Sheet on Rigid Body Dynamics
         link: "https://drive.google.com/file/d/1r4mcrdex59m3rWJWjxhK85bionFg1IKr/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/111vE5wwDvnPegxHbWRJUp16KfyCxrH3G/view?usp=sharing"
+      - type: lecture_video
+        title: link to canvas bcourses - recording published, but mic battery died at the end
+        link: "https://bcourses.berkeley.edu/courses/1545207/external_tools/90481"
 
   - date: 2025-07-24
     items:
