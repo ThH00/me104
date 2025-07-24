@@ -66,6 +66,9 @@ contents:
         title: Set 19 - RB Translation
         description: RB Translation
         link: "https://drive.google.com/file/d/1F-MeHorwTKtKI9ve2Uu4VWNxyBTFdleE/view?usp=drivesdk"
+      - type: reading
+        title: Moments of inertia of common shapes
+        link: "https://drive.google.com/file/d/1DxU3drUxiPzQgW9u-QsdPsVf8NP3gh6U/view?usp=sharing"
       - type: quiz
         title: Quiz 11
         description: Quiz 11
@@ -73,7 +76,7 @@ contents:
       - type: homework
         title: HW 07 - TBD
         link: "???"
-        due_date: 2025-07-31
+        due_date: 2025-08-01
 ---
       
       
