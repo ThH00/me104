@@ -48,5 +48,5 @@ contents:
       - type: homework
         title: HW 08 - TBD
         link: "???"
-        due_date: 2025-08-07
+        due_date: 2025-08-08
 ---

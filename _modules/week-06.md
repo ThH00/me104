@@ -68,5 +68,5 @@ contents:
       - type: homework
         title: HW 06 - Merry-go-round animation
         link: "https://drive.google.com/file/d/1s9X3Y3I_NPuiQH3XcDvSxXy0Coz9YLKB/view?usp=share_link"
-        due_date: 2025-07-23
+        due_date: 2025-07-25
 ---
