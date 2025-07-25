@@ -67,10 +67,12 @@ contents:
         title: Set 19 - RB Translation
         description: RB Translation
         link: "https://drive.google.com/file/d/1F-MeHorwTKtKI9ve2Uu4VWNxyBTFdleE/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/14S0BR2-A_GlcxXXKkOnYt0n7OOq07Yas/view?usp=sharing"
       - type: reading
         title: Moments of inertia of common shapes
         link: "https://drive.google.com/file/d/1DxU3drUxiPzQgW9u-QsdPsVf8NP3gh6U/view?usp=sharing"
+      - type: reading
+        title: Derivation of the parallel axis theorem
+        link: "https://drive.google.com/file/d/17k7Nb27wuspZUZosNP3G7_aEwLI8b4mq/view?usp=sharing"
       - type: quiz
         title: Quiz 11
         description: Quiz 11
