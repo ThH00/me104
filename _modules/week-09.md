@@ -21,7 +21,11 @@ contents:
     items:
       - type: exercise
         topics:
-          - TBD
+          - Rigid body dynamics
+      - type: problem_set
+        title: Discussion 08 Extra Problems
+        description: Discussion 08 Extra Problems
+        link: "https://drive.google.com/file/d/1TjLyPmIOZe3-FzZSBUetrTKB9M6v-OFV/view?usp=sharing"
 
   - date: 2025-08-07
     items:
