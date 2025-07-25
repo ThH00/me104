@@ -76,7 +76,7 @@ contents:
       - type: quiz
         title: Quiz 11
         description: Quiz 11
-        link: "??"
+        link: "https://drive.google.com/file/d/1Ky9DZ4Fn-geJvrXK9Y1v8sPLxxLcToIT/view?usp=sharing"
       - type: homework
         title: HW 07 - TBD
         link: "???"
