@@ -33,10 +33,10 @@ contents:
         link: "https://youtube.com/shorts/pRxOpqpKq78"
       - type: lecture_video
         title: The parallel axis theorem
-        link: "https://youtube.com/shorts/pRxOpqpKq78"
+        link: "https://youtu.be/8R_cF2e_9nU"
       - type: lecture_video
         title: Example - parallel axis theorem on a solid cylinder
-        link: "https://youtu.be/8R_cF2e_9nU"
+        link: "https://youtube.com/shorts/0CfRKuqjZ7YU"
       - type: reading
         title: Notes pdf
         link: "https://drive.google.com/file/d/1zuL3YSqawy5FtvICplTMBMHMxdpmpIBx/view?usp=sharing"
