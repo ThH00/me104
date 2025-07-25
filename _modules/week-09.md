@@ -51,8 +51,4 @@ contents:
         title: Quiz 15
         description: Quiz 15
         link: "??"
-      - type: homework
-        title: HW 09 - TBD
-        link: "???"
-        due_date: 2025-08-14
 ---

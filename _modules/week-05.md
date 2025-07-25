@@ -88,7 +88,7 @@ contents:
         link: "https://drive.google.com/file/d/13FUUqvWx33IMZhJkMmsKBSMkaDVGky4U/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1JN4GXoADfo_000ErF4yNAQ1gRl5Y-CSQ/view?usp=sharing"
       - type: homework
-        title: HW 05 - colliding particles
+        title: HW 05 - orbital mechanics
         link: "https://drive.google.com/file/d/1ChZTfDnsX4_58ugmQE_gJdRsG-Rmqqeb/view?usp=share_link"
         due_date: 2025-07-18
 ---
