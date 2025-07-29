@@ -78,10 +78,6 @@ contents:
         description: Quiz 11
         link: "https://drive.google.com/file/d/1Ky9DZ4Fn-geJvrXK9Y1v8sPLxxLcToIT/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1_bJXS9d_U8lUpPjtsZMDv5luIbqi1QMu/view?usp=sharing"
-      - type: homework
-        title: HW 07 - TBD
-        link: "???"
-        due_date: 2025-08-01
 ---
       
       

@@ -16,7 +16,11 @@ contents:
       - type: quiz
         title: Quiz 12
         description: Quiz 12
-        link: "??"
+        link: "https://drive.google.com/file/d/1yhSCnb4hKF3fRL0FFcRXWkSW1RKWx6-4/view?usp=share_link"
+      - type: homework
+        title: HW 07 - TBD
+        link: "https://drive.google.com/file/d/1lduW4aX0pCclXLwqmDBVHaKtyY8OjUGy/view?usp=share_link"
+        due_date: 2025-08-05
 
 
 
@@ -49,8 +53,4 @@ contents:
         title: Quiz 13
         description: Quiz 13
         link: "??"
-      - type: homework
-        title: HW 08 - TBD
-        link: "???"
-        due_date: 2025-08-08
 ---

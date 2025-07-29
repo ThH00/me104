@@ -14,6 +14,10 @@ contents:
         title: Quiz 14
         description: Quiz 14
         link: "??"
+      - type: homework
+        title: HW 08 - TBD
+        link: "???"
+        due_date: 2025-08-12
 
 
 
