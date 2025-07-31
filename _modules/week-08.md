@@ -52,5 +52,5 @@ contents:
       - type: quiz
         title: Quiz 13
         description: Quiz 13
-        link: "??"
+        link: "https://drive.google.com/file/d/1ElU4iso8JdTsPFWYdpt0qCqRum5UWvO8/view?usp=share_link"
 ---
