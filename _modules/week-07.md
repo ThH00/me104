@@ -37,6 +37,9 @@ contents:
       - type: lecture_video
         title: Example - parallel axis theorem on a solid cylinder
         link: "https://youtube.com/shorts/0CfRKuqjZ7YU"
+      - type: demo
+        title: Cylinders Rolling Down Incline - Professor Walter Lewin
+        link: "https://www.youtube.com/watch?v=M_YCWDXCwZM&t=152s"
       - type: reading
         title: Notes pdf
         link: "https://drive.google.com/file/d/1zuL3YSqawy5FtvICplTMBMHMxdpmpIBx/view?usp=sharing"
