@@ -16,7 +16,7 @@ contents:
         link: "??"
       - type: homework
         title: HW 08 - TBD
-        link: "???"
+        link: "https://drive.google.com/file/d/1hDp2QectLgGx4C8dnXimnmZgZOdFH771/view?usp=sharing"
         due_date: 2025-08-12
 
 
