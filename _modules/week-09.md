@@ -42,6 +42,7 @@ contents:
         title: Set 23 - Work-Energy Theorem for RB
         description: Work-Energy Theorem for RB
         link: "https://drive.google.com/file/d/1Rm52iKlLwpMrStha4w3dxqBGBs0OYq9c/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1rO1HAFLV2HsdBgl6X2SSR4lMgqo_-e8z/view?usp=sharing"
       - type: lecture_video
         title: Introducing the work-energy theorem of a rigid body
         link: "https://youtu.be/acmYFwl8rRo?si=s4NJ5lJKfXNWWTzD"
