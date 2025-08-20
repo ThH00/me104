@@ -70,6 +70,7 @@ contents:
         title: Set 19 - RB Translation
         description: RB Translation
         link: "https://drive.google.com/file/d/1F-MeHorwTKtKI9ve2Uu4VWNxyBTFdleE/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/14S0BR2-A_GlcxXXKkOnYt0n7OOq07Yas/view?usp=sharing"
       - type: reading
         title: Moments of inertia of common shapes
         link: "https://drive.google.com/file/d/1DxU3drUxiPzQgW9u-QsdPsVf8NP3gh6U/view?usp=sharing"
