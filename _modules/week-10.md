@@ -6,10 +6,6 @@ contents:
       - type: lecture
         topics:
           - Review
-      - type: quiz
-        title: Quiz 16
-        description: Quiz 16
-        link: "??"
 
 
 
